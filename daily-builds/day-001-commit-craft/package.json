@@ -1,0 +1,9 @@
+{
+  "name": "day-001-commit-craft",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A dependency-free conventional commit message generator.",
+  "scripts": {
+    "test": "node --test commit.test.js"
+  }
+}

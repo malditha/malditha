@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Create clear conventional commit messages without sending data anywhere." />
+    <title>Commit Craft ✦</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <p class="eyebrow">DAY 001 · DAILY BUILDS</p>
+        <h1>Commit Craft <span>✦</span></h1>
+        <p>Turn a tiny change summary into a clean conventional commit.</p>
+      </header>
+
+      <section class="workspace" aria-label="Commit message generator">
+        <form id="commit-form" class="panel form-panel">
+          <div class="two-column">
+            <label>Type
+              <select id="type" name="type">
+                <option value="feat">feat</option><option value="fix">fix</option><option value="docs">docs</option>
+                <option value="refactor">refactor</option><option value="test">test</option><option value="chore">chore</option>
+                <option value="perf">perf</option><option value="ci">ci</option><option value="build">build</option>
+                <option value="style">style</option><option value="revert">revert</option>
+              </select>
+            </label>
+            <label>Scope <span>optional</span><input id="scope" name="scope" placeholder="projects" /></label>
+          </div>
+          <label>Summary <span id="counter">0 / 72</span><input id="summary" name="summary" required placeholder="add project filtering" /></label>
+          <label>Body <span>optional</span><textarea id="body" name="body" rows="3" placeholder="Explain why the change was needed."></textarea></label>
+          <label>Issue reference <span>optional</span><input id="issue" name="issue" placeholder="#42" /></label>
+          <label class="check"><input id="breaking" name="breaking" type="checkbox" /><span>Breaking change</span></label>
+        </form>
+
+        <section class="panel preview-panel" aria-live="polite">
+          <div class="preview-heading"><span>PREVIEW</span><span id="status">Ready</span></div>
+          <pre id="preview">feat: add project filtering</pre>
+          <ul id="errors" class="errors"></ul>
+          <button id="copy" type="button">Copy commit message <span>↗</span></button>
+          <p class="privacy">Runs locally. Nothing is uploaded or stored.</p>
+        </section>
+      </section>
+    </main>
+    <script src="commit.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
