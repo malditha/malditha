@@ -6,6 +6,8 @@ One small, original and complete project per day—from **August 31 through Dece
 
 `█░░░░░░░░░ 1%`
 
+[View the complete Day 001–100 project roadmap →](./ROADMAP.md)
+
 The goal is deliberate practice, not contribution noise. Every entry must be useful, runnable, documented and small enough to complete in a day. Private client code, credentials, copied tutorials and unfinished placeholders do not belong here.
 
 ## Builds
