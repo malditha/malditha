@@ -1,14 +1,22 @@
-# Daily Builds ✦
+# 100 Days of Code ✦
 
-A collection of small, original projects built one focused skill at a time.
+One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-The goal is not to create contribution noise. Each entry must be useful, runnable, documented, and small enough to complete in a day. Private client code, credentials, copied tutorials, and unfinished placeholders do not belong here.
+**Progress:** 1 / 100 complete
+
+`█░░░░░░░░░ 1%`
+
+The goal is deliberate practice, not contribution noise. Every entry must be useful, runnable, documented and small enough to complete in a day. Private client code, credentials, copied tutorials and unfinished placeholders do not belong here.
 
 ## Builds
 
 | Day | Project | Skills practiced | Status |
 | --- | --- | --- | --- |
 | 001 | [Commit Craft](./day-001-commit-craft) | JavaScript modules, validation, browser APIs, Node test runner | Complete |
+
+## Skill rotation
+
+The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext, Linux and DevOps, APIs, n8n automation, databases, testing, accessibility, security and UI engineering.
 
 ## Quality checklist
 
@@ -17,4 +25,4 @@ The goal is not to create contribution noise. Each entry must be useful, runnabl
 - Contains no secrets or private data
 - Includes tests when logic is testable
 - Explains the decisions and next improvement
-- Uses one cohesive commit per daily build
+- Uses one cohesive commit per daily project

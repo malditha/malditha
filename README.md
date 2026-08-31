@@ -26,15 +26,17 @@
 - Reliable infrastructure with **Docker, Linux, Nginx, AWS, and Proxmox**
 - Practical automations using **n8n, APIs, and AI-assisted workflows**
 
-## ♡ Daily builds
+## ♡ 100 Days of Code
 
-Small, original projects built in public to practice one focused skill at a time. Every build includes working code and a short explanation—no client code, copied tutorials, or empty contribution farming.
+One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
+
+**Progress:** Day 001 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
 | 001 | [Commit Craft](./daily-builds/day-001-commit-craft) | JavaScript modules, validation, browser APIs, and Node tests |
 
-[Browse the Daily Builds collection →](./daily-builds)
+[Browse the 100 Days of Code collection →](./daily-builds)
 
 ## ⚡ Current mode
 
