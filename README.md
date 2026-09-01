@@ -30,11 +30,12 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 001 of 100 · August 31–December 8, 2026
+**Progress:** Day 002 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
 | 001 | [Commit Craft](./daily-builds/day-001-commit-craft) | JavaScript modules, validation, browser APIs, and Node tests |
+| 002 | [JSON Lens](./daily-builds/day-002-json-lens) | JSON parsing, recursive paths, search filtering, and Node tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

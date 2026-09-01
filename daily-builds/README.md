@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 1 / 100 complete
+**Progress:** 2 / 100 complete
 
-`█░░░░░░░░░ 1%`
+`██░░░░░░░░ 2%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -15,6 +15,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | Day | Project | Skills practiced | Status |
 | --- | --- | --- | --- |
 | 001 | [Commit Craft](./day-001-commit-craft) | JavaScript modules, validation, browser APIs, Node test runner | Complete |
+| 002 | [JSON Lens](./day-002-json-lens) | Recursive data traversal, parser feedback, search filtering, Node tests | Complete |
 
 ## Skill rotation
 

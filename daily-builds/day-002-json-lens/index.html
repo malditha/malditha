@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Validate, format, minify, search, and inspect JSON locally in your browser." />
+  <title>JSON Lens</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">Day 002 · local-first developer tool</p>
+      <h1>JSON <em>Lens</em></h1>
+      <p>Turn dense JSON into a searchable path-by-path view. Nothing leaves your browser.</p>
+    </header>
+
+    <section class="workspace" aria-label="JSON workspace">
+      <article class="panel">
+        <div class="panel-head"><h2>Input</h2><button id="sample" class="quiet">Load sample</button></div>
+        <label class="sr-only" for="json-input">JSON input</label>
+        <textarea id="json-input" spellcheck="false"></textarea>
+        <div class="actions"><button id="format">Format</button><button id="minify" class="secondary">Minify</button></div>
+      </article>
+      <article class="panel">
+        <div class="panel-head"><h2>Output</h2><button id="copy" class="quiet">Copy</button></div>
+        <label class="sr-only" for="json-output">Formatted JSON output</label>
+        <textarea id="json-output" readonly></textarea>
+        <p id="status" role="status" aria-live="polite"></p>
+      </article>
+    </section>
+
+    <section class="inspector">
+      <div class="inspector-head">
+        <div><p class="eyebrow">Structure</p><h2>Path explorer</h2><p id="stats"></p></div>
+        <label>Search paths or values<input id="search" type="search" placeholder="Try skills or boolean" /></label>
+      </div>
+      <div class="table-wrap"><table><thead><tr><th>Path</th><th>Type</th><th>Value</th></tr></thead><tbody id="rows"></tbody></table></div>
+    </section>
+  </main>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

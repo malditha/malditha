@@ -8,7 +8,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | Day | Date | Project | Focus | Status |
 | --- | --- | --- | --- | --- |
 | 001 | Aug 31, 2026 | Commit Craft | Web foundations & developer tools | Complete |
-| 002 | Sep 01, 2026 | JSON Lens | Web foundations & developer tools | Planned |
+| 002 | Sep 01, 2026 | JSON Lens | Web foundations & developer tools | Complete |
 | 003 | Sep 02, 2026 | Markdown Split View | Web foundations & developer tools | Planned |
 | 004 | Sep 03, 2026 | Accessible Palette | Web foundations & developer tools | Planned |
 | 005 | Sep 04, 2026 | Timezone Pair | Web foundations & developer tools | Planned |
