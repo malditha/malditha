@@ -1,0 +1,6 @@
+{
+  "name": "day-003-markdown-split-view",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}

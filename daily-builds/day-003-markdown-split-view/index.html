@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A private, dependency-free Markdown editor with a safe live split preview.">
+  <title>Markdown Split View — Day 003</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main>
+    <header class="hero">
+      <div><span class="day">100 DAYS / DAY 003</span><h1>Markdown<br><em>Split View</em></h1></div>
+      <p>Draft README files, notes and documentation with an immediate local preview—no account, upload or dependency required.</p>
+    </header>
+
+    <section class="toolbar" aria-label="Editor controls">
+      <div class="stats">
+        <span><b id="words">0</b> words</span>
+        <span><b id="characters">0</b> characters</span>
+        <span><b id="reading-time">1 min</b> read</span>
+      </div>
+      <div class="actions"><button id="clear-editor" class="secondary" type="button">Clear</button><button id="copy-html" type="button">Copy HTML</button></div>
+    </section>
+
+    <section class="workspace">
+      <div class="panel editor-panel">
+        <div class="panel-label"><span>01 / Markdown</span><span>Write</span></div>
+        <label class="sr-only" for="editor">Markdown source</label>
+        <textarea id="editor" spellcheck="true" aria-describedby="privacy-note"></textarea>
+      </div>
+      <div class="panel preview-panel">
+        <div class="panel-label"><span>02 / Preview</span><span id="status" aria-live="polite">Preview updated</span></div>
+        <article id="preview" tabindex="0" aria-label="Rendered Markdown preview"></article>
+      </div>
+    </section>
+
+    <footer><p id="privacy-note">Private by default: everything stays in this browser.</p><a href="https://github.com/malditha/malditha/tree/main/daily-builds/day-003-markdown-split-view">View source ↗</a></footer>
+  </main>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
