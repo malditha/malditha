@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 3 / 100 complete
+**Progress:** 4 / 100 complete
 
-`███░░░░░░░ 3%`
+`████░░░░░░ 4%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -15,7 +15,9 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | Day | Project | Skills practiced | Status |
 | --- | --- | --- | --- |
 | 001 | [Commit Craft](./day-001-commit-craft) | JavaScript modules, validation, browser APIs, Node test runner | Complete |
-| 002 | [JSON Lens](./day-002-json-lens) | Recursive data traversal, parser feedback, search filtering, Node tests | Complete |\n| 003 | [Markdown Split View](./day-003-markdown-split-view) | Safe Markdown parsing, DOM events, local storage, responsive UI, Node tests | Complete |
+| 002 | [JSON Lens](./day-002-json-lens) | Recursive data traversal, parser feedback, search filtering, Node tests | Complete |
+| 003 | [Markdown Split View](./day-003-markdown-split-view) | Safe Markdown parsing, DOM events, local storage, responsive UI, Node tests | Complete |
+| 004 | [Accessible Palette](./day-004-accessible-palette) | Color contrast math, accessible form controls, responsive UI, Node tests | Complete |
 
 ## Skill rotation
 

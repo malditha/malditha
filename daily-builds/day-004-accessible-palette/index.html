@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Check text and interface color contrast, preview the pair, and find a foreground that reaches AA contrast.">
+  <title>Accessible Palette — Day 004</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="masthead">
+    <a href="../">100 DAYS / 004</a>
+    <span>ACCESSIBLE PALETTE</span>
+    <span aria-hidden="true">✦</span>
+  </header>
+
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <p class="eyebrow">Contrast without the guesswork</p>
+      <h1 id="page-title">MAKE COLOR<br><em>READABLE.</em></h1>
+      <p>Test a foreground and background, inspect every common contrast target, then apply the nearest suggested foreground.</p>
+    </section>
+
+    <form class="controls" aria-label="Color contrast controls">
+      <label>
+        <span>Foreground</span>
+        <span class="color-control"><input id="foreground-picker" type="color" value="#111111" aria-label="Choose foreground color"><input id="foreground-text" value="#111111" maxlength="7" spellcheck="false"></span>
+      </label>
+      <button id="swap" type="button" aria-label="Swap foreground and background">⇄<span>Swap</span></button>
+      <label>
+        <span>Background</span>
+        <span class="color-control"><input id="background-picker" type="color" value="#f7d900" aria-label="Choose background color"><input id="background-text" value="#f7d900" maxlength="7" spellcheck="false"></span>
+      </label>
+      <button class="check-button" type="submit">Check contrast ↗</button>
+      <p id="error" class="error" role="alert"></p>
+    </form>
+
+    <section class="workspace">
+      <article id="preview" class="preview" aria-labelledby="preview-title">
+        <p>LIVE PREVIEW / Aa</p>
+        <h2 id="preview-title">Clear color makes space for the message.</h2>
+        <p>This smaller body copy shows how the pair feels in a practical reading context.</p>
+        <button type="button">Sample action</button>
+      </article>
+
+      <aside class="report" aria-labelledby="report-title">
+        <p id="report-title">CONTRAST REPORT</p>
+        <output id="ratio">—</output>
+        <strong id="verdict"></strong>
+        <ul id="checks"></ul>
+        <div class="recommendation">
+          <span>SUGGESTION</span>
+          <p id="suggestion"></p>
+          <button id="use-suggestion" type="button">Use suggested color</button>
+        </div>
+      </aside>
+    </section>
+  </main>
+
+  <footer><span>#100DaysOfCode</span><span>#Day004</span><span>Built with vanilla JavaScript</span></footer>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
