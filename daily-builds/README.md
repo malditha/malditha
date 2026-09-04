@@ -2,7 +2,7 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 4 / 100 complete
+**Progress:** 5 / 100 complete
 
 `████░░░░░░ 4%`
 
@@ -18,6 +18,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 002 | [JSON Lens](./day-002-json-lens) | Recursive data traversal, parser feedback, search filtering, Node tests | Complete |
 | 003 | [Markdown Split View](./day-003-markdown-split-view) | Safe Markdown parsing, DOM events, local storage, responsive UI, Node tests | Complete |
 | 004 | [Accessible Palette](./day-004-accessible-palette) | Color contrast math, accessible form controls, responsive UI, Node tests | Complete |
+| 005 | [Timezone Pair](./day-005-timezone-pair) | IANA time zones, daylight-saving validation, responsive UI, Node tests | Complete |
 
 ## Skill rotation
 

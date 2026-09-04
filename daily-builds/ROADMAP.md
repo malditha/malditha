@@ -11,7 +11,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 002 | Sep 01, 2026 | JSON Lens | Web foundations & developer tools | Complete |
 | 003 | Sep 02, 2026 | Markdown Split View | Web foundations & developer tools | Complete |
 | 004 | Sep 03, 2026 | Accessible Palette | Web foundations & developer tools | Complete |
-| 005 | Sep 04, 2026 | Timezone Pair | Web foundations & developer tools | Planned |
+| 005 | Sep 04, 2026 | Timezone Pair | Web foundations & developer tools | Complete |
 | 006 | Sep 05, 2026 | URL Toolkit | Web foundations & developer tools | Planned |
 | 007 | Sep 06, 2026 | Regex Playground | Web foundations & developer tools | Planned |
 | 008 | Sep 07, 2026 | CSV Quicklook | Web foundations & developer tools | Planned |

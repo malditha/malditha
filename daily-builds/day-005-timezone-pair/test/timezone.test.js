@@ -1,0 +1,6 @@
+import test from"node:test";import assert from"node:assert/strict";import{buildDayPairs,getZonedParts,isValidTimeZone,workBand,zonedDateTimeToUtc}from"../timezone.js";
+test("validates IANA time-zone names",()=>{assert.equal(isValidTimeZone("Asia/Manila"),true);assert.equal(isValidTimeZone("Moon/Sea_of_Tranquility"),false)});
+test("converts Manila morning to the previous evening in Toronto",()=>{const instant=zonedDateTimeToUtc({date:"2026-09-04",time:"09:00",timeZone:"Asia/Manila"});assert.equal(instant.toISOString(),"2026-09-04T01:00:00.000Z");const p=getZonedParts(instant,"America/Toronto");assert.deepEqual({year:p.year,month:p.month,day:p.day,hour:p.hour,minute:p.minute},{year:2026,month:9,day:3,hour:21,minute:0})});
+test("rejects a local time skipped by daylight saving",()=>assert.throws(()=>zonedDateTimeToUtc({date:"2026-03-08",time:"02:30",timeZone:"America/New_York"}),/does not exist/));
+test("labels core, edge and off-hours",()=>{assert.equal(workBand(10),"core");assert.equal(workBand(18),"edge");assert.equal(workBand(23),"off")});
+test("builds an ordinary day and marks shared core hours",()=>{const pairs=buildDayPairs("2026-09-04","Europe/London","America/Toronto");assert.equal(pairs.length,24);assert.ok(pairs.some(pair=>pair.sourceBand==="core"&&pair.targetBand==="core"))});
