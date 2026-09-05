@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Clean, normalize and inspect web URLs locally in your browser.">
+  <title>URL Toolkit — Day 006</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="masthead">
+    <a href="../">100 DAYS / 006</a>
+    <strong>URL TOOLKIT</strong>
+    <span aria-hidden="true">↗</span>
+  </header>
+
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <p>Developer utility / local only</p>
+      <h1 id="page-title">MAKE LINKS<br><em>LEGIBLE.</em></h1>
+      <div class="intro-note">Paste a web address. See what it contains, remove common campaign tracking and copy a cleaner version.</div>
+    </section>
+
+    <form id="url-form" class="workspace">
+      <label class="input-label" for="url-input">URL to inspect</label>
+      <div class="url-entry">
+        <input id="url-input" value="example.com/docs?utm_source=newsletter&amp;topic=urls#start" spellcheck="false" autocomplete="off">
+        <button type="submit">Inspect URL ↗</button>
+      </div>
+      <fieldset>
+        <legend>Cleanup options</legend>
+        <label><input id="remove-tracking" type="checkbox" checked><span>Remove tracking</span></label>
+        <label><input id="sort-parameters" type="checkbox"><span>Sort parameters</span></label>
+        <label><input id="strip-hash" type="checkbox"><span>Strip fragment</span></label>
+      </fieldset>
+      <p id="error" class="error" role="alert"></p>
+
+      <section class="result" aria-labelledby="result-title">
+        <div class="section-label"><span id="result-title">Clean result</span><span>HTTP / HTTPS</span></div>
+        <div class="output-row">
+          <textarea id="url-output" rows="2" readonly aria-label="Cleaned URL"></textarea>
+          <button id="copy-url" type="button">Copy URL</button>
+        </div>
+      </section>
+    </form>
+
+    <section class="inspection" aria-label="URL inspection">
+      <article class="parts-card">
+        <div class="card-title"><span>01</span><h2>URL anatomy</h2></div>
+        <div id="url-parts" class="parts"></div>
+      </article>
+      <article class="params-card">
+        <div class="card-title"><span>02</span><h2>Query parameters</h2><small id="parameter-count">0 parameters</small></div>
+        <ul id="parameters"></ul>
+      </article>
+    </section>
+  </main>
+
+  <footer><span>#100DaysOfCode</span><span>#Day006</span><span>No URL leaves your browser</span></footer>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

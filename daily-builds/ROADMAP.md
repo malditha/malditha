@@ -12,7 +12,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 003 | Sep 02, 2026 | Markdown Split View | Web foundations & developer tools | Complete |
 | 004 | Sep 03, 2026 | Accessible Palette | Web foundations & developer tools | Complete |
 | 005 | Sep 04, 2026 | Timezone Pair | Web foundations & developer tools | Complete |
-| 006 | Sep 05, 2026 | URL Toolkit | Web foundations & developer tools | Planned |
+| 006 | Sep 05, 2026 | URL Toolkit | Web foundations & developer tools | Complete |
 | 007 | Sep 06, 2026 | Regex Playground | Web foundations & developer tools | Planned |
 | 008 | Sep 07, 2026 | CSV Quicklook | Web foundations & developer tools | Planned |
 | 009 | Sep 08, 2026 | Form State Debugger | Web foundations & developer tools | Planned |
@@ -111,3 +111,4 @@ This is the working sequence for the challenge. A project may be refined when a 
 ## Definition of done
 
 Each project must solve one clear problem, run using documented steps, contain no private data or secrets, include tests when its logic is testable, and be published as one cohesive commit.
+

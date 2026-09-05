@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 5 / 100 complete
+**Progress:** 6 / 100 complete
 
-`████░░░░░░ 4%`
+`██████░░░░ 6%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -19,6 +19,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 003 | [Markdown Split View](./day-003-markdown-split-view) | Safe Markdown parsing, DOM events, local storage, responsive UI, Node tests | Complete |
 | 004 | [Accessible Palette](./day-004-accessible-palette) | Color contrast math, accessible form controls, responsive UI, Node tests | Complete |
 | 005 | [Timezone Pair](./day-005-timezone-pair) | IANA time zones, daylight-saving validation, responsive UI, Node tests | Complete |
+| 006 | [URL Toolkit](./day-006-url-toolkit) | URL parsing, query transformations, safe DOM rendering, Node tests | Complete |
 
 ## Skill rotation
 
@@ -32,3 +33,4 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 - Includes tests when logic is testable
 - Explains the decisions and next improvement
 - Uses one cohesive commit per daily project
+
