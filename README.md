@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 006 of 100 · August 31–December 8, 2026
+**Progress:** Day 007 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -40,6 +40,7 @@ One small, original project built in public each day—working code, documentati
 | 004 | [Accessible Palette](./daily-builds/day-004-accessible-palette) | Color contrast math, accessible controls, responsive UI, and Node tests |
 | 005 | [Timezone Pair](./daily-builds/day-005-timezone-pair) | IANA time zones, daylight-saving validation, overlap mapping, and Node tests |
 | 006 | [URL Toolkit](./daily-builds/day-006-url-toolkit) | URL parsing, query cleanup, safe browser rendering, and Node tests |
+| 007 | [Regex Playground](./daily-builds/day-007-regex-playground) | Regular expressions, capture groups, replacement previews, accessible DOM rendering, and Node tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
@@ -61,4 +62,5 @@ sharing   → honest work without exposing private client code
 <p align="center">
   <em>build softly · ship bravely · improve daily</em> ✦
 </p>
+
 

@@ -1,0 +1,11 @@
+{
+  "name": "day-007-regex-playground",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local regex tester with match details and replacement preview.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test",
+    "check": "node --check regex-tools.js && node --check app.js && node --check server.js"
+  }
+}

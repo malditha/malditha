@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Test JavaScript regular expressions locally with highlighted matches, capture groups and replacement previews.">
+  <title>Regex Playground · Day 007</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header>
+      <p>100 DAYS OF CODE · DAY 007</p>
+      <h1>REGEX<br><span>PLAYGROUND.</span></h1>
+      <p class="lede">Understand a pattern before you paste it into production. Everything runs in your browser.</p>
+      <button id="sample" type="button">LOAD EMAIL SAMPLE ↗</button>
+    </header>
+    <form id="playground" novalidate>
+      <section class="panel pattern-panel">
+        <div class="panel-title"><span>01</span><h2>BUILD THE PATTERN</h2></div>
+        <label for="pattern">Regular expression</label>
+        <div class="pattern-row"><b>/</b><input id="pattern" value="\\b[A-Z][a-z]+\\b" spellcheck="false" aria-describedby="status"><b>/</b></div>
+        <fieldset><legend>Flags</legend>
+          <label><input type="checkbox" name="flag" value="g" checked> g · global</label>
+          <label><input type="checkbox" name="flag" value="i"> i · ignore case</label>
+          <label><input type="checkbox" name="flag" value="m"> m · multiline</label>
+          <label><input type="checkbox" name="flag" value="s"> s · dot all</label>
+          <label><input type="checkbox" name="flag" value="u"> u · unicode</label>
+        </fieldset>
+        <p id="status" class="status" role="status" aria-live="polite"></p>
+      </section>
+      <section class="panel text-panel">
+        <div class="panel-title"><span>02</span><h2>ADD TEST TEXT</h2></div>
+        <label for="test-text">Test text</label>
+        <textarea id="test-text" rows="8">Kris builds useful tools. Regex finds patterns. JavaScript makes the result visible.</textarea>
+        <h3>HIGHLIGHTED RESULT</h3>
+        <pre id="highlighted" class="output"></pre>
+      </section>
+      <section class="panel details-panel">
+        <div class="panel-title"><span>03</span><h2>INSPECT MATCHES</h2></div>
+        <ol id="match-list" class="match-list"></ol>
+      </section>
+      <section class="panel replace-panel">
+        <div class="panel-title"><span>04</span><h2>PREVIEW REPLACEMENT</h2></div>
+        <label for="replacement">Replacement text</label>
+        <input id="replacement" placeholder="Try: [$&]" spellcheck="false">
+        <pre id="replacement-output" class="output"></pre>
+      </section>
+    </form>
+  </main>
+  <script src="regex-tools.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
