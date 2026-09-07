@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Inspect a CSV file locally before importing it." />
+    <title>CSV Quicklook</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <p class="eyebrow">100 DAYS OF CODE · DAY 008</p>
+        <h1>CSV <span>Quicklook</span></h1>
+        <p>Check rows, columns, empty values and structural issues before an import. Your data stays in this browser.</p>
+      </header>
+      <section class="workspace" aria-labelledby="input-title">
+        <div class="panel input-panel">
+          <h2 id="input-title">01 / Add CSV</h2>
+          <label class="file-button" for="file-input">Choose local file</label>
+          <input id="file-input" type="file" accept=".csv,text/csv" />
+          <label for="csv-input">Or paste CSV text</label>
+          <textarea id="csv-input" spellcheck="false">project,status,owner
+CSV Quicklook,Ready,Kris
+Regex Playground,Complete,Kris</textarea>
+          <div class="controls">
+            <label for="delimiter">Delimiter</label>
+            <select id="delimiter"><option value=",">Comma</option><option value=";">Semicolon</option><option value="tab">Tab</option></select>
+            <button id="analyze" type="button">Analyze ↗</button>
+            <button id="sample" type="button" class="secondary">Try sample</button>
+          </div>
+        </div>
+        <div class="panel results-panel">
+          <h2>02 / Quicklook</h2>
+          <p id="status" class="status" aria-live="polite"></p>
+          <p id="issues" class="issues"></p>
+          <div id="summary" class="summary"></div>
+        </div>
+      </section>
+      <section class="panel preview-panel" aria-labelledby="preview-title">
+        <h2 id="preview-title">03 / First 20 rows</h2>
+        <div class="table-scroll"><table id="preview"></table></div>
+      </section>
+    </main>
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>

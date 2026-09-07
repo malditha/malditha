@@ -1,0 +1,11 @@
+{
+  "name": "day-008-csv-quicklook",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test",
+    "check": "node --check src/csv.js && node --check src/app.js && node --check server.js"
+  }
+}

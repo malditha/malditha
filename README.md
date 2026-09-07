@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 007 of 100 · August 31–December 8, 2026
+**Progress:** Day 008 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -41,6 +41,7 @@ One small, original project built in public each day—working code, documentati
 | 005 | [Timezone Pair](./daily-builds/day-005-timezone-pair) | IANA time zones, daylight-saving validation, overlap mapping, and Node tests |
 | 006 | [URL Toolkit](./daily-builds/day-006-url-toolkit) | URL parsing, query cleanup, safe browser rendering, and Node tests |
 | 007 | [Regex Playground](./daily-builds/day-007-regex-playground) | Regular expressions, capture groups, replacement previews, accessible DOM rendering, and Node tests |
+| 008 | [CSV Quicklook](./daily-builds/day-008-csv-quicklook) | CSV parsing, structural validation, data summaries, local file handling, and Node tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
