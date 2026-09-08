@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 8 / 100 complete
+**Progress:** 9 / 100 complete
 
-`████████░░ 8%`
+`█████████░ 9%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -22,6 +22,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 006 | [URL Toolkit](./day-006-url-toolkit) | URL parsing, query transformations, safe DOM rendering, Node tests | Complete |
 | 007 | [Regex Playground](./day-007-regex-playground) | Regular expressions, capture groups, replacement previews, accessible DOM rendering, Node tests | Complete |
 | 008 | [CSV Quicklook](./day-008-csv-quicklook) | CSV parsing, data-quality summaries, local file handling, responsive tables, Node tests | Complete |
+| 009 | [Form State Debugger](./day-009-form-state-debugger) | Immutable state, form events, validation, accessible live feedback, Node tests | Complete |
 
 ## Skill rotation
 
@@ -35,5 +36,4 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 - Includes tests when logic is testable
 - Explains the decisions and next improvement
 - Uses one cohesive commit per daily project
-
 

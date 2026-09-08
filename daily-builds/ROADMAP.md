@@ -15,7 +15,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 006 | Sep 05, 2026 | URL Toolkit | Web foundations & developer tools | Complete |
 | 007 | Sep 06, 2026 | Regex Playground | Web foundations & developer tools | Complete |
 | 008 | Sep 07, 2026 | CSV Quicklook | Web foundations & developer tools | Complete |
-| 009 | Sep 08, 2026 | Form State Debugger | Web foundations & developer tools | Planned |
+| 009 | Sep 08, 2026 | Form State Debugger | Web foundations & developer tools | Complete |
 | 010 | Sep 09, 2026 | Gitignore Builder | Web foundations & developer tools | Planned |
 | 011 | Sep 10, 2026 | Log Signal | Python & local automation | Planned |
 | 012 | Sep 11, 2026 | Backup Manifest | Python & local automation | Planned |
@@ -111,5 +111,4 @@ This is the working sequence for the challenge. A project may be refined when a 
 ## Definition of done
 
 Each project must solve one clear problem, run using documented steps, contain no private data or secrets, include tests when its logic is testable, and be published as one cohesive commit.
-
 

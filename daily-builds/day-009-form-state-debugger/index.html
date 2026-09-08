@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Inspect touched, dirty and validation state while interacting with a browser form."><title>Form State Debugger — Day 009</title><link rel="stylesheet" href="./styles.css"></head>
+<body>
+  <header><span>DAY 009 / 100</span><h1>Form State<br><mark>Debugger</mark></h1><p>Interact with the form. Watch its hidden state become visible—locally in your browser.</p></header>
+  <main>
+    <section class="panel form-panel" aria-labelledby="form-title">
+      <div class="panel-title"><span>01</span><h2 id="form-title">Test form</h2></div>
+      <form novalidate>
+        <label>Name<input name="name" autocomplete="off" placeholder="Kris"></label>
+        <label>Email<input name="email" type="email" autocomplete="off" placeholder="hello@example.com"></label>
+        <label>Role<select name="role"><option value="">Choose one</option><option>Developer</option><option>Designer</option><option>Systems administrator</option></select></label>
+        <div class="actions"><button type="submit">Inspect submit ↗</button><button type="reset" class="secondary">Reset</button></div>
+      </form>
+      <p id="status" class="status" role="status" aria-live="polite"></p>
+    </section>
+    <section class="panel debug-panel" aria-labelledby="debug-title">
+      <div class="panel-title"><span>02</span><h2 id="debug-title">Live state</h2></div>
+      <p class="event-line">Latest event <output id="event-output">initialized</output></p>
+      <div id="inspector" class="inspector"></div>
+    </section>
+  </main>
+  <footer><strong>PRISTINE → DIRTY → TOUCHED → VALID</strong><span>No network requests. No saved form data.</span></footer>
+  <script type="module" src="./src/app.js"></script>
+</body>
+</html>
