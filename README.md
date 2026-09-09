@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 009 of 100 · August 31–December 8, 2026
+**Progress:** Day 010 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -43,6 +43,7 @@ One small, original project built in public each day—working code, documentati
 | 007 | [Regex Playground](./daily-builds/day-007-regex-playground) | Regular expressions, capture groups, replacement previews, accessible DOM rendering, and Node tests |
 | 008 | [CSV Quicklook](./daily-builds/day-008-csv-quicklook) | CSV parsing, structural validation, data summaries, local file handling, and Node tests |
 | 009 | [Form State Debugger](./daily-builds/day-009-form-state-debugger) | Immutable form state, browser events, validation, accessible feedback, and Node tests |
+| 010 | [Gitignore Builder](./daily-builds/day-010-gitignore-builder) | Rule normalization, stable deduplication, local file generation, accessible UI, and Node tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

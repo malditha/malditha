@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Build a clean, deduplicated .gitignore locally from practical stack and tooling rules.">
+  <title>Gitignore Builder — Day 010</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <p class="kicker">100 DAYS OF CODE · DAY 010</p>
+    <h1>Gitignore<br><span>Builder</span></h1>
+    <p>Pick the stack. Add project rules. Export one clean <code>.gitignore</code> without sending filenames anywhere.</p>
+  </header>
+
+  <main>
+    <section class="panel controls" aria-labelledby="rules-title">
+      <div class="section-head"><div><p>01 / RULES</p><h2 id="rules-title">What should Git ignore?</h2></div><span class="privacy">LOCAL ONLY</span></div>
+      <div class="presets" aria-label="Presets">
+        <button data-preset="next-app">Next.js app</button>
+        <button data-preset="python-app">Python app</button>
+        <button data-preset="mixed-stack">Mixed stack</button>
+      </div>
+      <div id="group-list" class="group-list"></div>
+      <label class="custom"><span>Custom patterns <small>one per line</small></span><textarea id="custom-patterns" rows="5" placeholder="uploads/&#10;*.local.db"></textarea></label>
+    </section>
+
+    <section class="panel preview" aria-labelledby="preview-title">
+      <div class="section-head"><div><p>02 / PREVIEW</p><h2 id="preview-title">Ready to commit</h2></div><strong id="summary">0 groups · 0 rules</strong></div>
+      <label class="sr-only" for="output">Generated gitignore</label>
+      <textarea id="output" class="output" readonly spellcheck="false"></textarea>
+      <div class="actions"><button id="copy" class="primary">Copy file</button><button id="download">Download .gitignore</button></div>
+      <p id="status" class="status" role="status" aria-live="polite">Choose a preset or individual rule groups.</p>
+    </section>
+  </main>
+
+  <footer><span>BUILD SOFTLY · SHIP BRAVELY</span><a href="https://github.com/malditha">github.com/malditha ↗</a></footer>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

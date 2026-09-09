@@ -1,0 +1,11 @@
+{
+  "name": "day-010-gitignore-builder",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test",
+    "check": "node --check core.js && node --check app.js && node --check server.js"
+  }
+}

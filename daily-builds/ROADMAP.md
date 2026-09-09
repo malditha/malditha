@@ -16,7 +16,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 007 | Sep 06, 2026 | Regex Playground | Web foundations & developer tools | Complete |
 | 008 | Sep 07, 2026 | CSV Quicklook | Web foundations & developer tools | Complete |
 | 009 | Sep 08, 2026 | Form State Debugger | Web foundations & developer tools | Complete |
-| 010 | Sep 09, 2026 | Gitignore Builder | Web foundations & developer tools | Planned |
+| 010 | Sep 09, 2026 | Gitignore Builder | Web foundations & developer tools | Complete |
 | 011 | Sep 10, 2026 | Log Signal | Python & local automation | Planned |
 | 012 | Sep 11, 2026 | Backup Manifest | Python & local automation | Planned |
 | 013 | Sep 12, 2026 | Disk Map | Python & local automation | Planned |
