@@ -1,0 +1,7 @@
+2026-09-10T07:10:01Z INFO worker started queue=short
+2026-09-10T07:10:02Z INFO request completed status=200 duration=84ms
+2026-09-10T07:10:03Z WARN retrying job 7291 from 10.0.0.14 attempt 1
+2026-09-10T07:10:08Z WARN retrying job 8194 from 10.0.0.22 attempt 2
+2026-09-10T07:10:12Z ERROR job 7291 failed after 3 attempts
+2026-09-10T07:10:15Z ERROR job 8194 failed after 3 attempts
+health probe passed
