@@ -25,6 +25,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 009 | [Form State Debugger](./day-009-form-state-debugger) | Immutable state, form events, validation, accessible live feedback, Node tests | Complete |
 | 010 | [Gitignore Builder](./day-010-gitignore-builder) | Rule normalization, stable deduplication, local file generation, accessible UI, Node tests | Complete |
 | 011 | [Log Signal](./day-011-log-signal) | Python parsing, signature normalization, CLI reporting, exit codes, standard-library tests | Complete |
+| 012 | [Backup Manifest](./day-012-backup-manifest) | Python automation | Complete |
 
 ## Skill rotation
 
