@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 011 of 100 · August 31–December 8, 2026
+**Progress:** Day 013 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -45,7 +45,8 @@ One small, original project built in public each day—working code, documentati
 | 009 | [Form State Debugger](./daily-builds/day-009-form-state-debugger) | Immutable form state, browser events, validation, accessible feedback, and Node tests |
 | 010 | [Gitignore Builder](./daily-builds/day-010-gitignore-builder) | Rule normalization, stable deduplication, local file generation, accessible UI, and Node tests |
 | 011 | [Log Signal](./daily-builds/day-011-log-signal) | Python parsing, recurring-signal grouping, CLI reporting, exit codes, and standard-library tests |
-| 012 | [Backup Manifest](./daily-builds/day-012-backup-manifest) | Python automation | Complete |
+| 012 | [Backup Manifest](./daily-builds/day-012-backup-manifest) | Recursive traversal, streaming SHA-256, JSON validation, CLI exit codes, and standard-library tests |
+| 013 | [Disk Map](./daily-builds/day-013-disk-map) | Safe traversal, size aggregation, symlink boundaries, JSON output, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 11 / 100 complete
+**Progress:** 13 / 100 complete
 
-`███████████ 11%`
+`█████████████ 13%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -25,7 +25,8 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 009 | [Form State Debugger](./day-009-form-state-debugger) | Immutable state, form events, validation, accessible live feedback, Node tests | Complete |
 | 010 | [Gitignore Builder](./day-010-gitignore-builder) | Rule normalization, stable deduplication, local file generation, accessible UI, Node tests | Complete |
 | 011 | [Log Signal](./day-011-log-signal) | Python parsing, signature normalization, CLI reporting, exit codes, standard-library tests | Complete |
-| 012 | [Backup Manifest](./day-012-backup-manifest) | Python automation | Complete |
+| 012 | [Backup Manifest](./day-012-backup-manifest) | Recursive traversal, streaming SHA-256, JSON validation, CLI exit codes, standard-library tests | Complete |
+| 013 | [Disk Map](./day-013-disk-map) | Safe traversal, size aggregation, symlink boundaries, JSON output, standard-library tests | Complete |
 
 ## Skill rotation
 
