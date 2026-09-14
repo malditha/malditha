@@ -21,7 +21,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 012 | Sep 11, 2026 | Backup Manifest | Python & local automation | Complete |
 | 013 | Sep 12, 2026 | Disk Map | Python & local automation | Complete |
 | 014 | Sep 13, 2026 | Env Guard | Python & local automation | Complete |
-| 015 | Sep 14, 2026 | HTTP Pulse | Python & local automation | Planned |
+| 015 | Sep 14, 2026 | HTTP Pulse | Python & local automation | Complete |
 | 016 | Sep 15, 2026 | File Hash Ledger | Python & local automation | Planned |
 | 017 | Sep 16, 2026 | Duplicate Finder | Python & local automation | Planned |
 | 018 | Sep 17, 2026 | Port Probe Report | Python & local automation | Planned |
