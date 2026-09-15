@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 15 / 100 complete
+**Progress:** 16 / 100 complete
 
-`███████████████ 15%`
+`████████████████ 16%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -29,6 +29,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 013 | [Disk Map](./day-013-disk-map) | Safe traversal, size aggregation, symlink boundaries, JSON output, standard-library tests | Complete |
 | 014 | [Env Guard](./day-014-env-guard) | Safe configuration parsing, key comparison, data minimization, JSON output, standard-library tests | Complete |
 | 015 | [HTTP Pulse](./day-015-http-pulse) | URL validation, HTTP error handling, latency measurement, JSON reports, network-free tests | Complete |
+| 016 | [File Hash Ledger](./day-016-file-hash-ledger) | Streaming SHA-256, JSONL persistence, hash chaining, tamper detection, standard-library tests | Complete |
 
 ## Skill rotation
 

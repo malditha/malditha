@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 015 of 100 · August 31–December 8, 2026
+**Progress:** Day 016 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -49,6 +49,7 @@ One small, original project built in public each day—working code, documentati
 | 013 | [Disk Map](./daily-builds/day-013-disk-map) | Safe traversal, size aggregation, symlink boundaries, JSON output, and standard-library tests |
 | 014 | [Env Guard](./daily-builds/day-014-env-guard) | Safe configuration parsing, key comparison, data minimization, JSON output, and standard-library tests |
 | 015 | [HTTP Pulse](./daily-builds/day-015-http-pulse) | URL validation, HTTP error handling, latency measurement, JSON reports, and network-free tests |
+| 016 | [File Hash Ledger](./daily-builds/day-016-file-hash-ledger) | Streaming SHA-256, JSONL persistence, hash chaining, tamper detection, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
