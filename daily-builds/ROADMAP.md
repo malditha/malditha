@@ -23,7 +23,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 014 | Sep 13, 2026 | Env Guard | Python & local automation | Complete |
 | 015 | Sep 14, 2026 | HTTP Pulse | Python & local automation | Complete |
 | 016 | Sep 15, 2026 | File Hash Ledger | Python & local automation | Complete |
-| 017 | Sep 16, 2026 | Duplicate Finder | Python & local automation | Planned |
+| 017 | Sep 16, 2026 | Duplicate Finder | Python & local automation | Complete |
 | 018 | Sep 17, 2026 | Port Probe Report | Python & local automation | Planned |
 | 019 | Sep 18, 2026 | Cron Explainer | Python & local automation | Planned |
 | 020 | Sep 19, 2026 | Config Diff | Python & local automation | Planned |
@@ -111,4 +111,3 @@ This is the working sequence for the challenge. A project may be refined when a 
 ## Definition of done
 
 Each project must solve one clear problem, run using documented steps, contain no private data or secrets, include tests when its logic is testable, and be published as one cohesive commit.
-
