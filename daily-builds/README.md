@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 17 / 100 complete
+**Progress:** 18 / 100 complete
 
-`█████████████████ 17%`
+`██████████████████ 18%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -31,6 +31,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 015 | [HTTP Pulse](./day-015-http-pulse) | URL validation, HTTP error handling, latency measurement, JSON reports, network-free tests | Complete |
 | 016 | [File Hash Ledger](./day-016-file-hash-ledger) | Streaming SHA-256, JSONL persistence, hash chaining, tamper detection, standard-library tests | Complete |
 | 017 | [Duplicate Finder](./day-017-duplicate-finder) | Recursive traversal, size pre-grouping, streaming SHA-256, read-only reporting, standard-library tests | Complete |
+| 018 | [Port Probe Report](./day-018-port-probe-report) | TCP diagnostics, bounded input validation, failure classification, JSON reporting, network-free tests | Complete |
 
 ## Skill rotation
 

@@ -51,6 +51,7 @@ One small, original project built in public each day—working code, documentati
 | 015 | [HTTP Pulse](./daily-builds/day-015-http-pulse) | URL validation, HTTP error handling, latency measurement, JSON reports, and network-free tests |
 | 016 | [File Hash Ledger](./daily-builds/day-016-file-hash-ledger) | Streaming SHA-256, JSONL persistence, hash chaining, tamper detection, and standard-library tests |
 | 017 | [Duplicate Finder](./daily-builds/day-017-duplicate-finder) | Read-only duplicate detection with size grouping, SHA-256 confirmation, and standard-library tests |
+| 018 | [Port Probe Report](./daily-builds/day-018-port-probe-report) | TCP diagnostics with bounded validation, failure classification, JSON reporting, and network-free tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
