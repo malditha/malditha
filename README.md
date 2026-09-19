@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 019 of 100 · August 31–December 8, 2026
+**Progress:** Day 020 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -53,6 +53,7 @@ One small, original project built in public each day—working code, documentati
 | 017 | [Duplicate Finder](./daily-builds/day-017-duplicate-finder) | Read-only duplicate detection with size grouping, SHA-256 confirmation, and standard-library tests |
 | 018 | [Port Probe Report](./daily-builds/day-018-port-probe-report) | TCP diagnostics with bounded validation, failure classification, JSON reporting, and network-free tests |
 | 019 | [Cron Explainer](./daily-builds/day-019-cron-explainer) | Cron parsing, bounded validation, schedule semantics, deterministic previews, and standard-library tests |
+| 020 | [Config Diff](./daily-builds/day-020-config-diff) | Recursive JSON comparison, privacy-conscious reporting, deterministic output, exit codes, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

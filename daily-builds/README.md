@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 19 / 100 complete
+**Progress:** 20 / 100 complete
 
-`███████████████████ 19%`
+`████████████████████ 20%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -33,6 +33,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 017 | [Duplicate Finder](./day-017-duplicate-finder) | Recursive traversal, size pre-grouping, streaming SHA-256, read-only reporting, standard-library tests | Complete |
 | 018 | [Port Probe Report](./day-018-port-probe-report) | TCP diagnostics, bounded input validation, failure classification, JSON reporting, network-free tests | Complete |
 | 019 | [Cron Explainer](./day-019-cron-explainer) | Cron parsing, bounded validation, schedule semantics, deterministic previews, standard-library tests | Complete |
+| 020 | [Config Diff](./day-020-config-diff) | Recursive JSON comparison, data minimization, deterministic reports, exit codes, standard-library tests | Complete |
 
 ## Skill rotation
 
