@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 20 / 100 complete
+**Progress:** 21 / 100 complete
 
-`████████████████████ 20%`
+`█████████████████████ 21%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -34,6 +34,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 018 | [Port Probe Report](./day-018-port-probe-report) | TCP diagnostics, bounded input validation, failure classification, JSON reporting, network-free tests | Complete |
 | 019 | [Cron Explainer](./day-019-cron-explainer) | Cron parsing, bounded validation, schedule semantics, deterministic previews, standard-library tests | Complete |
 | 020 | [Config Diff](./day-020-config-diff) | Recursive JSON comparison, data minimization, deterministic reports, exit codes, standard-library tests | Complete |
+| 021 | [Bench Doctor Lite](./day-021-bench-doctor-lite) | Frappe bench conventions, defensive inspection, privacy-conscious reporting, exit codes, standard-library tests | Complete |
 
 ## Skill rotation
 
