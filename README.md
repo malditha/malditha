@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 021 of 100 · August 31–December 8, 2026
+**Progress:** Day 022 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -55,6 +55,7 @@ One small, original project built in public each day—working code, documentati
 | 019 | [Cron Explainer](./daily-builds/day-019-cron-explainer) | Cron parsing, bounded validation, schedule semantics, deterministic previews, and standard-library tests |
 | 020 | [Config Diff](./daily-builds/day-020-config-diff) | Recursive JSON comparison, privacy-conscious reporting, deterministic output, exit codes, and standard-library tests |
 | 021 | [Bench Doctor Lite](./daily-builds/day-021-bench-doctor-lite) | Frappe bench conventions, defensive filesystem inspection, privacy-conscious reports, exit codes, and standard-library tests |
+| 022 | [Scheduler Snapshot](./daily-builds/day-022-scheduler-snapshot) | Frappe configuration precedence, privacy-conscious snapshots, deterministic drift comparison, exit codes, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

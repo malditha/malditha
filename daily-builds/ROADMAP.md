@@ -28,7 +28,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 019 | Sep 18, 2026 | Cron Explainer | Python & local automation | Complete |
 | 020 | Sep 19, 2026 | Config Diff | Python & local automation | Complete |
 | 021 | Sep 20, 2026 | Bench Doctor Lite | Frappe / ERPNext utilities | Complete |
-| 022 | Sep 21, 2026 | Scheduler Snapshot | Frappe / ERPNext utilities | Planned |
+| 022 | Sep 21, 2026 | Scheduler Snapshot | Frappe / ERPNext utilities | Complete |
 | 023 | Sep 22, 2026 | Worker Queue Reader | Frappe / ERPNext utilities | Planned |
 | 024 | Sep 23, 2026 | DocType Field Diff | Frappe / ERPNext utilities | Planned |
 | 025 | Sep 24, 2026 | Role Matrix | Frappe / ERPNext utilities | Planned |
