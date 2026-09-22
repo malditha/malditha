@@ -1,0 +1,12 @@
+{
+  "captured_at": "2026-09-22T08:00:00+08:00",
+  "queues": [
+    {"name": "default", "pending": 4, "oldest_enqueued_at": "2026-09-21T23:57:00Z"},
+    {"name": "long", "pending": 1, "oldest_enqueued_at": "2026-09-21T23:40:00Z"},
+    {"name": "short", "pending": 0}
+  ],
+  "workers": [
+    {"name": "worker-a", "status": "active", "queues": ["default", "short"]},
+    {"name": "worker-b", "status": "offline", "queues": ["long"]}
+  ]
+}

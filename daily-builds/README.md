@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 22 / 100 complete
+**Progress:** 23 / 100 complete
 
-`██████████████████████ 22%`
+`███████████████████████ 23%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -36,6 +36,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 020 | [Config Diff](./day-020-config-diff) | Recursive JSON comparison, data minimization, deterministic reports, exit codes, standard-library tests | Complete |
 | 021 | [Bench Doctor Lite](./day-021-bench-doctor-lite) | Frappe bench conventions, defensive inspection, privacy-conscious reporting, exit codes, standard-library tests | Complete |
 | 022 | [Scheduler Snapshot](./day-022-scheduler-snapshot) | Frappe configuration precedence, allowlisted inspection, deterministic snapshots, drift comparison, standard-library tests | Complete |
+| 023 | [Worker Queue Reader](./day-023-worker-queue-reader) | Frappe worker queues, timezone-aware age calculations, defensive JSON validation, privacy-conscious reports, standard-library tests | Complete |
 
 ## Skill rotation
 
