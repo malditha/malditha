@@ -1,0 +1,8 @@
+{
+  "name": "Work Order",
+  "fields": [
+    {"fieldname": "subject", "fieldtype": "Data", "reqd": 1},
+    {"fieldname": "status", "fieldtype": "Select", "read_only": 1},
+    {"fieldname": "legacy_note", "fieldtype": "Small Text"}
+  ]
+}

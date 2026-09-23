@@ -30,7 +30,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 021 | Sep 20, 2026 | Bench Doctor Lite | Frappe / ERPNext utilities | Complete |
 | 022 | Sep 21, 2026 | Scheduler Snapshot | Frappe / ERPNext utilities | Complete |
 | 023 | Sep 22, 2026 | Worker Queue Reader | Frappe / ERPNext utilities | Complete |
-| 024 | Sep 23, 2026 | DocType Field Diff | Frappe / ERPNext utilities | Planned |
+| 024 | Sep 23, 2026 | DocType Field Diff | Frappe / ERPNext utilities | Complete |
 | 025 | Sep 24, 2026 | Role Matrix | Frappe / ERPNext utilities | Planned |
 | 026 | Sep 25, 2026 | Naming Series Tester | Frappe / ERPNext utilities | Planned |
 | 027 | Sep 26, 2026 | Stock Reorder Calculator | Frappe / ERPNext utilities | Planned |
@@ -111,3 +111,4 @@ This is the working sequence for the challenge. A project may be refined when a 
 ## Definition of done
 
 Each project must solve one clear problem, run using documented steps, contain no private data or secrets, include tests when its logic is testable, and be published as one cohesive commit.
+
