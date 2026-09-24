@@ -1,0 +1,37 @@
+[
+  {
+    "doctype": "Issue",
+    "role": "Support Agent",
+    "permlevel": 0,
+    "read": 1,
+    "write": 1,
+    "create": 1,
+    "report": 1
+  },
+  {
+    "doctype": "Issue",
+    "role": "Support Manager",
+    "permlevel": 0,
+    "read": 1,
+    "write": 1,
+    "create": 1,
+    "delete": 1,
+    "report": 1,
+    "export": 1
+  },
+  {
+    "doctype": "Issue",
+    "role": "Support Manager",
+    "permlevel": 1,
+    "read": 1,
+    "write": 1
+  },
+  {
+    "doctype": "Service Level Agreement",
+    "role": "Support Manager",
+    "permlevel": 0,
+    "read": 1,
+    "write": 1,
+    "create": 1
+  }
+]

@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 024 of 100 · August 31–December 8, 2026
+**Progress:** Day 025 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -58,6 +58,7 @@ One small, original project built in public each day—working code, documentati
 | 022 | [Scheduler Snapshot](./daily-builds/day-022-scheduler-snapshot) | Frappe configuration precedence, privacy-conscious snapshots, deterministic drift comparison, exit codes, and standard-library tests |
 | 023 | [Worker Queue Reader](./daily-builds/day-023-worker-queue-reader) | Frappe worker queues, timezone-aware backlog analysis, privacy-conscious reporting, exit codes, and standard-library tests |
 | 024 | [DocType Field Diff](./daily-builds/day-024-doctype-field-diff) | Frappe DocType structure, deterministic field comparison, privacy-conscious reporting, exit codes, and standard-library tests |
+| 025 | [Role Matrix](./daily-builds/day-025-role-matrix) | Frappe role permissions, permission-level aggregation, duplicate and conflict detection, data minimization, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
