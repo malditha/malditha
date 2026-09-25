@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 25 / 100 complete
+**Progress:** 26 / 100 complete
 
-`█████████████████████████ 25%`
+`██████████████████████████ 26%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -39,6 +39,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 023 | [Worker Queue Reader](./day-023-worker-queue-reader) | Frappe worker queues, timezone-aware age calculations, defensive JSON validation, privacy-conscious reports, standard-library tests | Complete |
 | 024 | [DocType Field Diff](./day-024-doctype-field-diff) | Frappe DocType structure, defensive JSON validation, deterministic schema comparison, privacy-conscious reports, standard-library tests | Complete |
 | 025 | [Role Matrix](./day-025-role-matrix) | Frappe role permissions, defensive JSON validation, permission-level aggregation, data minimization, standard-library tests | Complete |
+| 026 | [Naming Series Tester](./day-026-naming-series-tester) | Pattern tokenization, deterministic previews, defensive validation, privacy-conscious reports, standard-library tests | Complete |
 
 ## Skill rotation
 
