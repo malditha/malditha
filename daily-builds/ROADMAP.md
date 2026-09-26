@@ -33,7 +33,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 024 | Sep 23, 2026 | DocType Field Diff | Frappe / ERPNext utilities | Complete |
 | 025 | Sep 24, 2026 | Role Matrix | Frappe / ERPNext utilities | Complete |
 | 026 | Sep 25, 2026 | Naming Series Tester | Frappe / ERPNext utilities | Complete |
-| 027 | Sep 26, 2026 | Stock Reorder Calculator | Frappe / ERPNext utilities | Planned |
+| 027 | Sep 26, 2026 | Stock Reorder Calculator | Frappe / ERPNext utilities | Complete |
 | 028 | Sep 27, 2026 | Backup Freshness Checker | Frappe / ERPNext utilities | Planned |
 | 029 | Sep 28, 2026 | Site Config Redactor | Frappe / ERPNext utilities | Planned |
 | 030 | Sep 29, 2026 | Patch Log Formatter | Frappe / ERPNext utilities | Planned |

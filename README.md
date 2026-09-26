@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 026 of 100 · August 31–December 8, 2026
+**Progress:** Day 027 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -60,6 +60,7 @@ One small, original project built in public each day—working code, documentati
 | 024 | [DocType Field Diff](./daily-builds/day-024-doctype-field-diff) | Frappe DocType structure, deterministic field comparison, privacy-conscious reporting, exit codes, and standard-library tests |
 | 025 | [Role Matrix](./daily-builds/day-025-role-matrix) | Frappe role permissions, permission-level aggregation, duplicate and conflict detection, data minimization, and standard-library tests |
 | 026 | [Naming Series Tester](./daily-builds/day-026-naming-series-tester) | Naming-pattern tokenization, deterministic date and counter previews, defensive input boundaries, and standard-library tests |
+| 027 | [Stock Reorder Calculator](./daily-builds/day-027-stock-reorder-calculator) | Inventory reorder-point calculations, minimum-order and pack-size rounding, defensive JSON validation, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

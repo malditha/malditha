@@ -1,0 +1,22 @@
+[
+  {
+    "item_code": "FABRIC-BLUE",
+    "current_qty": 20,
+    "on_order_qty": 5,
+    "average_daily_usage": 4,
+    "lead_time_days": 7,
+    "safety_stock": 6,
+    "minimum_order_qty": 12,
+    "pack_size": 5
+  },
+  {
+    "item_code": "THREAD-WHITE",
+    "current_qty": 60,
+    "on_order_qty": 0,
+    "average_daily_usage": 3,
+    "lead_time_days": 10,
+    "safety_stock": 10,
+    "minimum_order_qty": 20,
+    "pack_size": 10
+  }
+]
