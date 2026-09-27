@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 27 / 100 complete
+**Progress:** 28 / 100 complete
 
-`███████████████████████████ 27%`
+`████████████████████████████ 28%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -41,6 +41,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 025 | [Role Matrix](./day-025-role-matrix) | Frappe role permissions, defensive JSON validation, permission-level aggregation, data minimization, standard-library tests | Complete |
 | 026 | [Naming Series Tester](./day-026-naming-series-tester) | Pattern tokenization, deterministic previews, defensive validation, privacy-conscious reports, standard-library tests | Complete |
 | 027 | [Stock Reorder Calculator](./day-027-stock-reorder-calculator) | Reorder-point calculations, pack rounding, defensive JSON validation, deterministic reports, standard-library tests | Complete |
+| 028 | [Backup Freshness Checker](./day-028-backup-freshness-checker) | Timezone-aware timestamps, freshness policies, defensive JSON validation, deterministic reports, standard-library tests | Complete |
 
 ## Skill rotation
 
