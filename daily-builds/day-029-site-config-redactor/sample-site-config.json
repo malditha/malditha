@@ -1,0 +1,9 @@
+{
+  "db_name": "fictional_site_database",
+  "db_password": "fictional-password-never-use-this",
+  "db_type": "mariadb",
+  "developer_mode": 0,
+  "encryption_key": "fictional-encryption-key",
+  "pause_scheduler": 1,
+  "socketio_port": 9000
+}

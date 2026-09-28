@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 028 of 100 · August 31–December 8, 2026
+**Progress:** Day 029 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
