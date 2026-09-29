@@ -1,0 +1,20 @@
+[
+  {
+    "patch": "frappe.patches.v15_0.prepare_system_settings",
+    "status": "success",
+    "started_at": "2026-09-29T08:00:00+08:00",
+    "finished_at": "2026-09-29T08:00:00.420+08:00"
+  },
+  {
+    "patch": "custom_app.patches.add_reference_field",
+    "status": "skipped",
+    "started_at": "2026-09-29T08:00:01+08:00",
+    "finished_at": "2026-09-29T08:00:01.035+08:00"
+  },
+  {
+    "patch": "custom_app.patches.rebuild_demo_index",
+    "status": "failed",
+    "started_at": "2026-09-29T08:00:02+08:00",
+    "finished_at": "2026-09-29T08:00:03.180+08:00"
+  }
+]

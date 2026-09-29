@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 029 of 100 · August 31–December 8, 2026
+**Progress:** Day 030 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -62,6 +62,9 @@ One small, original project built in public each day—working code, documentati
 | 026 | [Naming Series Tester](./daily-builds/day-026-naming-series-tester) | Naming-pattern tokenization, deterministic date and counter previews, defensive input boundaries, and standard-library tests |
 | 027 | [Stock Reorder Calculator](./daily-builds/day-027-stock-reorder-calculator) | Inventory reorder-point calculations, minimum-order and pack-size rounding, defensive JSON validation, and standard-library tests |
 | 028 | [Backup Freshness Checker](./daily-builds/day-028-backup-freshness-checker) | Timezone-aware backup-age evaluation, freshness status classification, defensive JSON validation, and standard-library tests |
+
+| 029 | [Site Config Redactor](./daily-builds/day-029-site-config-redactor) | Conservative allowlists, defensive JSON validation, data minimization, deterministic reports, and standard-library tests |
+| 030 | [Patch Log Formatter](./daily-builds/day-030-patch-log-formatter) | Sanitized patch records, timezone-aware durations, deterministic summaries, exit codes, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
