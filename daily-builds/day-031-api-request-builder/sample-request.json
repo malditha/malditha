@@ -1,0 +1,17 @@
+{
+  "method": "POST",
+  "url": "https://api.example.test/v1/tasks",
+  "query": {
+    "dry_run": true,
+    "tag": ["daily-build", "demo"]
+  },
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer demo-value-never-send",
+    "X-Request-ID": "day-031-sample"
+  },
+  "json": {
+    "title": "Review the request before sending",
+    "priority": 2
+  }
+}

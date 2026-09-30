@@ -37,7 +37,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 028 | Sep 27, 2026 | Backup Freshness Checker | Frappe / ERPNext utilities | Complete |
 | 029 | Sep 28, 2026 | Site Config Redactor | Frappe / ERPNext utilities | Complete |
 | 030 | Sep 29, 2026 | Patch Log Formatter | Frappe / ERPNext utilities | Complete |
-| 031 | Sep 30, 2026 | API Request Builder | APIs & data handling | Planned |
+| 031 | Sep 30, 2026 | API Request Builder | APIs & data handling | Complete |
 | 032 | Oct 01, 2026 | Webhook Signature Lab | APIs & data handling | Planned |
 | 033 | Oct 02, 2026 | JSON Schema Starter | APIs & data handling | Planned |
 | 034 | Oct 03, 2026 | Pagination Simulator | APIs & data handling | Planned |
