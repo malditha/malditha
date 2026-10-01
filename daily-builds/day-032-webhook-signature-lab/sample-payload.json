@@ -1,0 +1,8 @@
+{
+  "event": "invoice.created",
+  "id": "evt_demo_032",
+  "data": {
+    "invoice": "INV-DEMO-001",
+    "total": 1250
+  }
+}

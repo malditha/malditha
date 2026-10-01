@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 31 / 100 complete
+**Progress:** 32 / 100 complete
 
-`███████████████████████████████ 31%`
+`████████████████████████████████ 32%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -48,6 +48,8 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 030 | [Patch Log Formatter](./day-030-patch-log-formatter) | Defensive JSON validation, timezone normalization, deterministic summaries, exit codes, standard-library tests | Complete |
 
 | 031 | [API Request Builder](./day-031-api-request-builder) | Defensive JSON validation, URL composition, sensitive-header redaction, shell-safe cURL previews, standard-library tests | Complete |
+
+| 032 | [Webhook Signature Lab](./day-032-webhook-signature-lab) | HMAC-SHA256, raw payload bytes, constant-time verification, timestamp tolerance, defensive header parsing, standard-library tests | Complete |
 
 ## Skill rotation
 
