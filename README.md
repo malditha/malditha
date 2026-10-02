@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 032 of 100 · August 31–December 8, 2026
+**Progress:** Day 033 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -69,6 +69,8 @@ One small, original project built in public each day—working code, documentati
 | 031 | [API Request Builder](./daily-builds/day-031-api-request-builder) | Defensive request validation, deterministic URL composition, sensitive-header redaction, shell-safe cURL previews, and standard-library tests |
 
 | 032 | [Webhook Signature Lab](./daily-builds/day-032-webhook-signature-lab) | Timestamped HMAC-SHA256, raw payload verification, replay-age checks, constant-time comparison, and standard-library tests |
+
+| 033 | [JSON Schema Starter](./daily-builds/day-033-json-schema-starter) | Recursive JSON traversal, Draft 2020-12 schema inference, deterministic output, bounded validation, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

@@ -1,0 +1,9 @@
+{
+  "event": "invoice.created",
+  "attempt": 1,
+  "active": true,
+  "customer": {
+    "id": 42,
+    "tags": ["new", "review"]
+  }
+}
