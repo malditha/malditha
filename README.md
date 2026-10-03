@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 033 of 100 · August 31–December 8, 2026
+**Progress:** Day 034 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -71,6 +71,7 @@ One small, original project built in public each day—working code, documentati
 | 032 | [Webhook Signature Lab](./daily-builds/day-032-webhook-signature-lab) | Timestamped HMAC-SHA256, raw payload verification, replay-age checks, constant-time comparison, and standard-library tests |
 
 | 033 | [JSON Schema Starter](./daily-builds/day-033-json-schema-starter) | Recursive JSON traversal, Draft 2020-12 schema inference, deterministic output, bounded validation, and standard-library tests |
+| 034 | [Pagination Simulator](./daily-builds/day-034-pagination-simulator) | Offset-pagination arithmetic, boundary validation, ellipsis-aware navigation, JSON reporting, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

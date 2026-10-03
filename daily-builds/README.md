@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 33 / 100 complete
+**Progress:** 34 / 100 complete
 
-`█████████████████████████████████ 33%`
+`██████████████████████████████████ 34%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -51,6 +51,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 
 | 032 | [Webhook Signature Lab](./day-032-webhook-signature-lab) | HMAC-SHA256, raw payload bytes, constant-time verification, timestamp tolerance, defensive header parsing, standard-library tests | Complete |
 | 033 | [JSON Schema Starter](./day-033-json-schema-starter) | Recursive JSON traversal, Draft 2020-12 basics, deterministic schema inference, bounded input validation, standard-library tests | Complete |
+| 034 | [Pagination Simulator](./day-034-pagination-simulator) | Pagination arithmetic, boundary validation, ellipsis-aware navigation, JSON reporting, standard-library tests | Complete |
 
 ## Skill rotation
 
