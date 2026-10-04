@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 034 of 100 · August 31–December 8, 2026
+**Progress:** Day 035 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -72,6 +72,7 @@ One small, original project built in public each day—working code, documentati
 
 | 033 | [JSON Schema Starter](./daily-builds/day-033-json-schema-starter) | Recursive JSON traversal, Draft 2020-12 schema inference, deterministic output, bounded validation, and standard-library tests |
 | 034 | [Pagination Simulator](./daily-builds/day-034-pagination-simulator) | Offset-pagination arithmetic, boundary validation, ellipsis-aware navigation, JSON reporting, and standard-library tests |
+| 035 | [Retry Budget Calculator](./daily-builds/day-035-retry-budget-calculator) | Retry budgeting, capped exponential backoff, conservative jitter allowance, decimal arithmetic, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
