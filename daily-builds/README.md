@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 36 / 100 complete
+**Progress:** 37 / 100 complete
 
-`████████████████████████████████████ 36%`
+`█████████████████████████████████████ 37%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -54,6 +54,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 034 | [Pagination Simulator](./day-034-pagination-simulator) | Pagination arithmetic, boundary validation, ellipsis-aware navigation, JSON reporting, standard-library tests | Complete |
 | 035 | [Retry Budget Calculator](./day-035-retry-budget-calculator) | Retry budgeting, capped exponential backoff, jitter allowance, precise decimal arithmetic, standard-library tests | Complete |
 | 036 | [Rate Limit Visualizer](./day-036-rate-limit-visualizer) | Fixed-window rate limits, timezone-aware timestamps, bounded validation, deterministic reporting, standard-library tests | Complete |
+| 037 | [CSV-to-JSON Converter](./day-037-csv-to-json-converter) | Standard-library CSV parsing, strict tabular validation, string-preserving conversion, JSON Lines, standard-library tests | Complete |
 
 ## Skill rotation
 

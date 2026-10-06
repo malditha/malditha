@@ -43,7 +43,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 034 | Oct 03, 2026 | Pagination Simulator | APIs & data handling | Complete |
 | 035 | Oct 04, 2026 | Retry Budget Calculator | APIs & data handling | Complete |
 | 036 | Oct 05, 2026 | Rate Limit Visualizer | APIs & data handling | Complete |
-| 037 | Oct 06, 2026 | CSV-to-JSON Converter | APIs & data handling | Planned |
+| 037 | Oct 06, 2026 | CSV-to-JSON Converter | APIs & data handling | Complete |
 | 038 | Oct 07, 2026 | Data Shape Profiler | APIs & data handling | Planned |
 | 039 | Oct 08, 2026 | Mock API Fixture Builder | APIs & data handling | Planned |
 | 040 | Oct 09, 2026 | OpenAPI Endpoint Index | APIs & data handling | Planned |
