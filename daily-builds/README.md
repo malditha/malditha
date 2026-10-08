@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 38 / 100 complete
+**Progress:** 39 / 100 complete
 
-`██████████████████████████████████████ 38%`
+`███████████████████████████████████████ 39%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -56,6 +56,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 036 | [Rate Limit Visualizer](./day-036-rate-limit-visualizer) | Fixed-window rate limits, timezone-aware timestamps, bounded validation, deterministic reporting, standard-library tests | Complete |
 | 037 | [CSV-to-JSON Converter](./day-037-csv-to-json-converter) | Standard-library CSV parsing, strict tabular validation, string-preserving conversion, JSON Lines, standard-library tests | Complete |
 | 038 | [Data Shape Profiler](./day-038-data-shape-profiler) | Recursive JSON field paths, presence and type summaries, bounded validation, privacy-conscious reports, standard-library tests | Complete |
+| 039 | [Mock API Fixture Builder](./day-039-mock-api-fixture-builder) | Declarative fixture blueprints, deterministic synthetic data, bounded validation, JSON and JSON Lines, standard-library tests | Complete |
 
 ## Skill rotation
 

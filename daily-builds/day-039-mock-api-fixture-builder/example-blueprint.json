@@ -1,0 +1,29 @@
+{
+  "count": 3,
+  "fields": {
+    "id": {
+      "type": "integer",
+      "start": 100,
+      "step": 1
+    },
+    "name": {
+      "type": "string",
+      "prefix": "user-",
+      "pad": 3
+    },
+    "active": {
+      "type": "boolean",
+      "start": true
+    },
+    "status": {
+      "type": "enum",
+      "values": [
+        "new",
+        "ready"
+      ]
+    },
+    "note": {
+      "type": "null"
+    }
+  }
+}
