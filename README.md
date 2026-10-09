@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 039 of 100 · August 31–December 8, 2026
+**Progress:** Day 040 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -77,6 +77,7 @@ One small, original project built in public each day—working code, documentati
 | 037 | [CSV-to-JSON Converter](./daily-builds/day-037-csv-to-json-converter) | Standard-library CSV parsing, strict tabular validation, string-preserving conversion, JSON and JSON Lines output, and standard-library tests |
 | 038 | [Data Shape Profiler](./daily-builds/day-038-data-shape-profiler) | Recursive JSON path profiling, presence and missing counts, observed-type summaries, privacy-conscious output, and standard-library tests |
 | 039 | [Mock API Fixture Builder](./daily-builds/day-039-mock-api-fixture-builder) | Declarative fixture rules, deterministic synthetic records, bounded validation, JSON and JSON Lines output, and standard-library tests |
+| 040 | [OpenAPI Endpoint Index](./daily-builds/day-040-openapi-endpoint-index) | OpenAPI 3.x structure, defensive JSON validation, deterministic endpoint indexing, privacy-conscious reports, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

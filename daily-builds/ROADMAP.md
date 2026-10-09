@@ -46,7 +46,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 037 | Oct 06, 2026 | CSV-to-JSON Converter | APIs & data handling | Complete |
 | 038 | Oct 07, 2026 | Data Shape Profiler | APIs & data handling | Complete |
 | 039 | Oct 08, 2026 | Mock API Fixture Builder | APIs & data handling | Complete |
-| 040 | Oct 09, 2026 | OpenAPI Endpoint Index | APIs & data handling | Planned |
+| 040 | Oct 09, 2026 | OpenAPI Endpoint Index | APIs & data handling | Complete |
 | 041 | Oct 10, 2026 | Docker Compose Auditor | Linux, DevOps & reliability | Planned |
 | 042 | Oct 11, 2026 | Nginx Config Checklist | Linux, DevOps & reliability | Planned |
 | 043 | Oct 12, 2026 | SSL Expiry Reporter | Linux, DevOps & reliability | Planned |
