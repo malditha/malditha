@@ -1,0 +1,16 @@
+{
+  "name": "demo-stack",
+  "services": {
+    "api": {
+      "image": "example/api:1.4.2",
+      "healthcheck": {"test": ["CMD", "python", "-c", "print('ok')"]},
+      "read_only": true,
+      "ports": [{"target": 8000, "published": "8000", "host_ip": "127.0.0.1"}]
+    },
+    "worker": {
+      "image": "example/worker:latest",
+      "environment": {"QUEUE": "default", "TOKEN": "sample-not-reported"},
+      "volumes": ["/srv/demo-data:/data"]
+    }
+  }
+}
