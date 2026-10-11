@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 041 of 100 · August 31–December 8, 2026
+**Progress:** Day 042 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -79,6 +79,7 @@ One small, original project built in public each day—working code, documentati
 | 039 | [Mock API Fixture Builder](./daily-builds/day-039-mock-api-fixture-builder) | Declarative fixture rules, deterministic synthetic records, bounded validation, JSON and JSON Lines output, and standard-library tests |
 | 040 | [OpenAPI Endpoint Index](./daily-builds/day-040-openapi-endpoint-index) | OpenAPI 3.x structure, defensive JSON validation, deterministic endpoint indexing, privacy-conscious reports, and standard-library tests |
 | 041 | [Docker Compose Auditor](./daily-builds/day-041-docker-compose-auditor) | Compose configuration review, bounded validation, privacy-conscious findings, deterministic reports, and standard-library tests |
+| 042 | [Nginx Config Checklist](./daily-builds/day-042-nginx-config-checklist) | Nginx syntax parsing, server-block inventories, focused configuration checks, bounded file handling, and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

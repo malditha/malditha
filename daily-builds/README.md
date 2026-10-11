@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 41 / 100 complete
+**Progress:** 42 / 100 complete
 
-`█████████████████████████████████████████ 41%`
+`██████████████████████████████████████████ 42%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -59,6 +59,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 039 | [Mock API Fixture Builder](./day-039-mock-api-fixture-builder) | Declarative fixture blueprints, deterministic synthetic data, bounded validation, JSON and JSON Lines, standard-library tests | Complete |
 | 040 | [OpenAPI Endpoint Index](./day-040-openapi-endpoint-index) | OpenAPI 3.x structure, defensive JSON validation, deterministic indexing, data minimization, standard-library tests | Complete |
 | 041 | [Docker Compose Auditor](./day-041-docker-compose-auditor) | Compose configuration, defensive JSON validation, privacy-conscious auditing, deterministic reports, standard-library tests | Complete |
+| 042 | [Nginx Config Checklist](./day-042-nginx-config-checklist) | Nginx syntax parsing, server-block inventories, focused configuration checks, bounded file handling, standard-library tests | Complete |
 
 ## Skill rotation
 
