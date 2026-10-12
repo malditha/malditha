@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 42 / 100 complete
+**Progress:** 43 / 100 complete
 
-`██████████████████████████████████████████ 42%`
+`███████████████████████████████████████████ 43%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -60,6 +60,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 040 | [OpenAPI Endpoint Index](./day-040-openapi-endpoint-index) | OpenAPI 3.x structure, defensive JSON validation, deterministic indexing, data minimization, standard-library tests | Complete |
 | 041 | [Docker Compose Auditor](./day-041-docker-compose-auditor) | Compose configuration, defensive JSON validation, privacy-conscious auditing, deterministic reports, standard-library tests | Complete |
 | 042 | [Nginx Config Checklist](./day-042-nginx-config-checklist) | Nginx syntax parsing, server-block inventories, focused configuration checks, bounded file handling, standard-library tests | Complete |
+| 043 | [SSL Expiry Reporter](./day-043-ssl-expiry-reporter) | Verified TLS connections, timezone-aware expiry classification, bounded endpoint checks, sanitized reporting, standard-library tests | Complete |
 
 ## Skill rotation
 
