@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 44 / 100 complete
+**Progress:** 45 / 100 complete
 
-`████████████████████████████████████████████ 44%`
+`█████████████████████████████████████████████ 45%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -62,6 +62,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 042 | [Nginx Config Checklist](./day-042-nginx-config-checklist) | Nginx syntax parsing, server-block inventories, focused configuration checks, bounded file handling, standard-library tests | Complete |
 | 043 | [SSL Expiry Reporter](./day-043-ssl-expiry-reporter) | Verified TLS connections, timezone-aware expiry classification, bounded endpoint checks, sanitized reporting, standard-library tests | Complete |
 | 044 | [Service Health Board](./day-044-service-health-board) | Defensive JSON validation, timezone-aware freshness checks, deterministic health aggregation, privacy-conscious reports, and standard-library tests | Complete |
+| 045 | [Log Rotation Planner](./day-045-log-rotation-planner) | Capacity modeling, interval rounding, finite-number validation, CLI exit codes, JSON reporting, and standard-library tests | Complete |
 
 ## Skill rotation
 
