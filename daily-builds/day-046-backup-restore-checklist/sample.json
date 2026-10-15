@@ -1,0 +1,10 @@
+{
+  "checks": {
+    "backup_identified": {"status": "pass", "evidence_recorded": true},
+    "integrity_checked": {"status": "pass", "evidence_recorded": true},
+    "isolated_target": {"status": "pass", "evidence_recorded": true},
+    "restore_completed": {"status": "pass", "evidence_recorded": true},
+    "data_validated": {"status": "unverified"},
+    "application_checked": {"status": "unverified"}
+  }
+}

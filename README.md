@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 045 of 100 · August 31–December 8, 2026
+**Progress:** Day 046 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -83,6 +83,7 @@ One small, original project built in public each day—working code, documentati
 | 043 | [SSL Expiry Reporter](./daily-builds/day-043-ssl-expiry-reporter) | Verified TLS connections, timezone-aware certificate-expiry classification, bounded endpoint checks, sanitized reports, and standard-library tests |
 | 044 | [Service Health Board](./daily-builds/day-044-service-health-board) | Defensive JSON validation, timezone-aware freshness checks, deterministic health aggregation, privacy-conscious reports, and standard-library tests |
 | 045 | [Log Rotation Planner](./daily-builds/day-045-log-rotation-planner) | Capacity modeling, interval rounding, finite-number validation, CLI exit codes, JSON reporting, and standard-library tests |
+| 046 | [Backup Restore Checklist](./daily-builds/day-046-backup-restore-checklist) | Recovery-drill modeling, defensive JSON validation, evidence-aware state aggregation, data minimization, CLI exit codes and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
