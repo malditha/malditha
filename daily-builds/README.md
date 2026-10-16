@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 46 / 100 complete
+**Progress:** 47 / 100 complete
 
-`██████████████████████████████████████████████ 46%`
+`███████████████████████████████████████████████ 47%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -64,6 +64,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 044 | [Service Health Board](./day-044-service-health-board) | Defensive JSON validation, timezone-aware freshness checks, deterministic health aggregation, privacy-conscious reports, and standard-library tests | Complete |
 | 045 | [Log Rotation Planner](./day-045-log-rotation-planner) | Capacity modeling, interval rounding, finite-number validation, CLI exit codes, JSON reporting, and standard-library tests | Complete |
 | 046 | [Backup Restore Checklist](./day-046-backup-restore-checklist) | Recovery-drill modeling, defensive JSON validation, evidence-aware state aggregation, data minimization, CLI exit codes and standard-library tests | Complete |
+| 047 | [Proxmox Capacity Calculator](./day-047-proxmox-capacity-calculator) | Capacity modeling, resource bottleneck analysis, reserve budgeting, finite-number validation, deterministic reports and standard-library tests | Complete |
 
 ## Skill rotation
 
