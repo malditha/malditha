@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 047 of 100 · August 31–December 8, 2026
+**Progress:** Day 048 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -85,6 +85,7 @@ One small, original project built in public each day—working code, documentati
 | 045 | [Log Rotation Planner](./daily-builds/day-045-log-rotation-planner) | Capacity modeling, interval rounding, finite-number validation, CLI exit codes, JSON reporting, and standard-library tests |
 | 046 | [Backup Restore Checklist](./daily-builds/day-046-backup-restore-checklist) | Recovery-drill modeling, defensive JSON validation, evidence-aware state aggregation, data minimization, CLI exit codes and standard-library tests |
 | 047 | [Proxmox Capacity Calculator](./daily-builds/day-047-proxmox-capacity-calculator) | Capacity modeling, resource bottleneck analysis, reserve budgeting, finite-number validation, deterministic reports and standard-library tests |
+| 048 | [Uptime SLA Calculator](./daily-builds/day-048-uptime-sla-calculator) | Decimal arithmetic, availability modeling, exact boundary comparisons, defensive numeric validation, CLI reports and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

@@ -54,7 +54,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 045 | Oct 14, 2026 | Log Rotation Planner | Linux, DevOps & reliability | Complete |
 | 046 | Oct 15, 2026 | Backup Restore Checklist | Linux, DevOps & reliability | Complete |
 | 047 | Oct 16, 2026 | Proxmox Capacity Calculator | Linux, DevOps & reliability | Complete |
-| 048 | Oct 17, 2026 | Uptime SLA Calculator | Linux, DevOps & reliability | Planned |
+| 048 | Oct 17, 2026 | Uptime SLA Calculator | Linux, DevOps & reliability | Complete |
 | 049 | Oct 18, 2026 | Incident Timeline Builder | Linux, DevOps & reliability | Planned |
 | 050 | Oct 19, 2026 | Environment Drift Checklist | Linux, DevOps & reliability | Planned |
 | 051 | Oct 20, 2026 | Workflow Input Validator | n8n & workflow automation | Planned |
