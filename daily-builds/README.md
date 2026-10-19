@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 49 / 100 complete
+**Progress:** 50 / 100 complete
 
-`█████████████████████████████████████████████████ 49%`
+`██████████████████████████████████████████████████ 50%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -68,6 +68,8 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 048 | [Uptime SLA Calculator](./day-048-uptime-sla-calculator) | Decimal arithmetic, availability modeling, exact boundary comparisons, defensive numeric validation, CLI reports and standard-library tests | Complete |
 
 | 049 | [Incident Timeline Builder](./day-049-incident-timeline-builder) | Timezone-aware event ordering, stable sorting, exact duration formatting, defensive JSON validation, data minimization and standard-library tests | Complete |
+
+| 050 | [Environment Drift Checklist](./day-050-environment-drift-checklist) | Environment baseline modeling, evidence-aware checklist states, deterministic comparisons, data minimization, bounded JSON loading and standard-library tests | Complete |
 
 ## Skill rotation
 
