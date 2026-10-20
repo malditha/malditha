@@ -57,7 +57,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 048 | Oct 17, 2026 | Uptime SLA Calculator | Linux, DevOps & reliability | Complete |
 | 049 | Oct 18, 2026 | Incident Timeline Builder | Linux, DevOps & reliability | Complete |
 | 050 | Oct 19, 2026 | Environment Drift Checklist | Linux, DevOps & reliability | Complete |
-| 051 | Oct 20, 2026 | Workflow Input Validator | n8n & workflow automation | Planned |
+| 051 | Oct 20, 2026 | Workflow Input Validator | n8n & workflow automation | Complete |
 | 052 | Oct 21, 2026 | Webhook Payload Sanitizer | n8n & workflow automation | Planned |
 | 053 | Oct 22, 2026 | Content Brief Generator | n8n & workflow automation | Planned |
 | 054 | Oct 23, 2026 | Automation Cost Estimator | n8n & workflow automation | Planned |

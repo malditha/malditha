@@ -1,0 +1,26 @@
+{
+  "unknown_fields": "reject",
+  "fields": {
+    "ticket_id": {
+      "type": "string",
+      "required": true,
+      "min_length": 3,
+      "max_length": 32
+    },
+    "priority": {
+      "type": "string",
+      "required": true,
+      "enum": ["low", "normal", "high"]
+    },
+    "notify": {
+      "type": "boolean",
+      "required": false
+    },
+    "tags": {
+      "type": "array",
+      "required": false,
+      "max_items": 3,
+      "item_type": "string"
+    }
+  }
+}

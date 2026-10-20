@@ -1,0 +1,6 @@
+{
+  "ticket_id": "HD-104",
+  "priority": "high",
+  "notify": true,
+  "tags": ["sla", "facilities"]
+}

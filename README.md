@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 050 of 100 · August 31–December 8, 2026
+**Progress:** Day 051 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -90,6 +90,7 @@ One small, original project built in public each day—working code, documentati
 | 049 | [Incident Timeline Builder](./daily-builds/day-049-incident-timeline-builder) | Timezone-aware event ordering, stable sorting, exact duration formatting, defensive JSON validation, data minimization and standard-library tests |
 
 | 050 | [Environment Drift Checklist](./daily-builds/day-050-environment-drift-checklist) | Environment baseline modeling, evidence-aware checklist states, deterministic comparisons, data minimization, bounded JSON loading and standard-library tests |
+| 051 | [Workflow Input Validator](./daily-builds/day-051-workflow-input-validator) | Declarative input contracts, defensive JSON parsing, value-free validation reports, automation exit codes and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
