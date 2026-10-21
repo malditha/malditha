@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 51 / 100 complete
+**Progress:** 52 / 100 complete
 
-`███████████████████████████████████████████████████ 51%`
+`████████████████████████████████████████████████████ 52%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -71,6 +71,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 
 | 050 | [Environment Drift Checklist](./day-050-environment-drift-checklist) | Environment baseline modeling, evidence-aware checklist states, deterministic comparisons, data minimization, bounded JSON loading and standard-library tests | Complete |
 | 051 | [Workflow Input Validator](./day-051-workflow-input-validator) | Declarative input contracts, defensive JSON parsing, value-free validation reports, automation exit codes and standard-library tests | Complete |
+| 052 | [Webhook Payload Sanitizer](./day-052-webhook-payload-sanitizer) | Recursive JSON traversal, conservative sensitive-key matching, data-minimized reports, bounded input handling and standard-library tests | Complete |
 
 ## Skill rotation
 

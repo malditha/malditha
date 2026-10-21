@@ -1,0 +1,16 @@
+{
+  "event": "order.created",
+  "request_id": "req_demo_123",
+  "customer": {
+    "display_name": "Sample Customer",
+    "email": "sample@example.invalid",
+    "access_token": "demo-value-never-use-a-real-token"
+  },
+  "items": [
+    {
+      "sku": "DEMO-001",
+      "quantity": 2
+    }
+  ],
+  "authorization": "Bearer demo-value"
+}
