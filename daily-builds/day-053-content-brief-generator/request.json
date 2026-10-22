@@ -1,0 +1,22 @@
+{
+  "title": "Webhook safety checklist",
+  "goal": "educate",
+  "audience": "small automation teams",
+  "channel": "article",
+  "problem": "Debug payloads can contain credentials that should not appear in tickets or examples.",
+  "takeaway": "Sanitize a payload locally, then review the result before sharing it.",
+  "evidence": [
+    "A fictional sanitizer report with redacted paths",
+    "The team's approved handling policy"
+  ],
+  "must_include": [
+    "The limits of key-based detection",
+    "A human review step"
+  ],
+  "avoid": [
+    "Guaranteed-safety claims",
+    "Real tokens or client payloads"
+  ],
+  "call_to_action": "Review one fictional sample payload with the checklist.",
+  "tone": "clear and practical"
+}

@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 052 of 100 · August 31–December 8, 2026
+**Progress:** Day 053 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -92,6 +92,7 @@ One small, original project built in public each day—working code, documentati
 | 050 | [Environment Drift Checklist](./daily-builds/day-050-environment-drift-checklist) | Environment baseline modeling, evidence-aware checklist states, deterministic comparisons, data minimization, bounded JSON loading and standard-library tests |
 | 051 | [Workflow Input Validator](./daily-builds/day-051-workflow-input-validator) | Declarative input contracts, defensive JSON parsing, value-free validation reports, automation exit codes and standard-library tests |
 | 052 | [Webhook Payload Sanitizer](./daily-builds/day-052-webhook-payload-sanitizer) | Recursive JSON traversal, conservative sensitive-key matching, data-minimized reports, bounded input handling and standard-library tests |
+| 053 | [Content Brief Generator](./daily-builds/day-053-content-brief-generator) | Defensive JSON parsing, declarative validation, deterministic Markdown and JSON briefs, workflow exit codes and standard-library tests |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 
