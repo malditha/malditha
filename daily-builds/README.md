@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 53 / 100 complete
+**Progress:** 54 / 100 complete
 
-`█████████████████████████████████████████████████████ 53%`
+`█████████████████████████████████████████████████████ 54%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -73,6 +73,7 @@ The goal is deliberate practice, not contribution noise. Every entry must be use
 | 051 | [Workflow Input Validator](./day-051-workflow-input-validator) | Declarative input contracts, defensive JSON parsing, value-free validation reports, automation exit codes and standard-library tests | Complete |
 | 052 | [Webhook Payload Sanitizer](./day-052-webhook-payload-sanitizer) | Recursive JSON traversal, conservative sensitive-key matching, data-minimized reports, bounded input handling and standard-library tests | Complete |
 | 053 | [Content Brief Generator](./day-053-content-brief-generator) | Defensive JSON parsing, declarative validation, deterministic Markdown and JSON briefs, workflow exit codes and standard-library tests | Complete |
+| 054 | [Automation Cost Estimator](./day-054-automation-cost-estimator) | Automation cost modeling, decimal arithmetic, defensive JSON validation, deterministic reports and standard-library tests | Complete |
 
 ## Skill rotation
 

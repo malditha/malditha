@@ -1,0 +1,21 @@
+{
+  "currency": "USD",
+  "days_per_month": 30,
+  "platform_monthly": 20,
+  "workflows": [
+    {
+      "name": "Lead intake",
+      "runs_per_day": 100,
+      "operations_per_run": 4,
+      "cost_per_1000_runs": 1.5,
+      "cost_per_1000_operations": 0.25,
+      "monthly_fixed_cost": 5
+    },
+    {
+      "name": "Daily report",
+      "runs_per_day": 1,
+      "operations_per_run": 12,
+      "cost_per_1000_operations": 0.25
+    }
+  ]
+}
