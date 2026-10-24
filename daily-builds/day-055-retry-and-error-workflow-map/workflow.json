@@ -1,0 +1,10 @@
+{
+  "name": "Lead intake",
+  "nodes": [
+    {"id": "webhook", "kind": "trigger", "next": ["validate"]},
+    {"id": "validate", "kind": "action", "next": ["send"], "on_error": "failed"},
+    {"id": "send", "kind": "action", "next": [], "on_error": "retry_send"},
+    {"id": "retry_send", "kind": "retry", "next": ["send"], "on_error": "failed"},
+    {"id": "failed", "kind": "error_handler", "next": []}
+  ]
+}

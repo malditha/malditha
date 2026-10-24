@@ -94,6 +94,7 @@ One small, original project built in public each day—working code, documentati
 | 052 | [Webhook Payload Sanitizer](./daily-builds/day-052-webhook-payload-sanitizer) | Recursive JSON traversal, conservative sensitive-key matching, data-minimized reports, bounded input handling and standard-library tests |
 | 053 | [Content Brief Generator](./daily-builds/day-053-content-brief-generator) | Defensive JSON parsing, declarative validation, deterministic Markdown and JSON briefs, workflow exit codes and standard-library tests |
 | 054 | [Automation Cost Estimator](./daily-builds/day-054-automation-cost-estimator) | Automation cost modeling, decimal arithmetic, defensive JSON validation, deterministic reports and standard-library tests |
+| 055 | [Retry and Error Workflow Map](./daily-builds/day-055-retry-and-error-workflow-map) | Maps success, retry and failure paths in a sanitized workflow definition |
 
 [Browse the 100 Days of Code collection →](./daily-builds)
 

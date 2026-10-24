@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 54 / 100 complete
+**Progress:** 55 / 100 complete
 
-`█████████████████████████████████████████████████████ 54%`
+`███████████████████████████████████████████████████████ 55%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -87,3 +87,4 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 - Includes tests when logic is testable
 - Explains the decisions and next improvement
 - Uses one cohesive commit per daily project
+| 055 | [Retry and Error Workflow Map](./day-055-retry-and-error-workflow-map) | Directed graph traversal, failure-path modeling, defensive JSON validation, deterministic reports and standard-library tests | Complete |
