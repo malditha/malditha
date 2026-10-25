@@ -96,6 +96,8 @@ One small, original project built in public each day—working code, documentati
 | 054 | [Automation Cost Estimator](./daily-builds/day-054-automation-cost-estimator) | Automation cost modeling, decimal arithmetic, defensive JSON validation, deterministic reports and standard-library tests |
 | 055 | [Retry and Error Workflow Map](./daily-builds/day-055-retry-and-error-workflow-map) | Maps success, retry and failure paths in a sanitized workflow definition |
 
+| 056 | [Cron Schedule Previewer](./daily-builds/day-056-cron-schedule-previewer) | Cron parsing, timezone-aware previews, bounded validation, deterministic reports and standard-library tests |
+
 [Browse the 100 Days of Code collection →](./daily-builds)
 
 ## ⚡ Current mode
