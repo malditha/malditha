@@ -1,0 +1,8 @@
+{
+  "name": "Lead notification",
+  "nodes": [
+    {"type": "webhook", "settings": {"path": "lead"}},
+    {"type": "request", "credentials": {"api_key": "YOUR_API_KEY_HERE"}},
+    {"type": "message", "settings": {"template": "Hello {{customer_name}}"}}
+  ]
+}

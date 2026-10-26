@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 56 / 100 complete
+**Progress:** 57 / 100 complete
 
-`████████████████████████████████████████████████████████ 56%`
+`████████████████████████████████████████████████████████ 57%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -89,3 +89,5 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 - Uses one cohesive commit per daily project
 | 055 | [Retry and Error Workflow Map](./day-055-retry-and-error-workflow-map) | Directed graph traversal, failure-path modeling, defensive JSON validation, deterministic reports and standard-library tests | Complete |
 | 056 | [Cron Schedule Previewer](./day-056-cron-schedule-previewer) | Cron parsing, timezone-aware previews, bounded validation, deterministic reports and standard-library tests | Complete |
+
+| 057 | [Secret Placeholder Checker](./day-057-secret-placeholder-checker) | Recursive JSON traversal, conservative placeholder matching, data-minimized reports, bounded validation and standard-library tests | Complete |

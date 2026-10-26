@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 054 of 100 · August 31–December 8, 2026
+**Progress:** Day 057 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -118,3 +118,5 @@ sharing   → honest work without exposing private client code
 <p align="center">
   <em>build softly · ship bravely · improve daily</em> ✦
 </p>
+
+| 057 | [Secret Placeholder Checker](./daily-builds/day-057-secret-placeholder-checker) | Recursive JSON traversal, conservative placeholder matching, data-minimized reports, bounded validation and standard-library tests |
