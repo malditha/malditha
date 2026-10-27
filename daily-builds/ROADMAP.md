@@ -64,7 +64,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 055 | Oct 24, 2026 | Retry and Error Workflow Map | n8n & workflow automation | Complete |
 | 056 | Oct 25, 2026 | Cron Schedule Previewer | n8n & workflow automation | Complete |
 | 057 | Oct 26, 2026 | Secret Placeholder Checker | n8n & workflow automation | Complete |
-| 058 | Oct 27, 2026 | Lead Routing Simulator | n8n & workflow automation | Planned |
+| 058 | Oct 27, 2026 | Lead Routing Simulator | n8n & workflow automation | Complete |
 | 059 | Oct 28, 2026 | Notification Template Lab | n8n & workflow automation | Planned |
 | 060 | Oct 29, 2026 | n8n Workflow Documenter | n8n & workflow automation | Planned |
 | 061 | Oct 30, 2026 | Boundary Value Generator | Testing & software quality | Planned |
