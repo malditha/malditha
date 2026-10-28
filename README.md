@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 058 of 100 · August 31–December 8, 2026
+**Progress:** Day 059 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -122,3 +122,4 @@ sharing   → honest work without exposing private client code
 | 057 | [Secret Placeholder Checker](./daily-builds/day-057-secret-placeholder-checker) | Recursive JSON traversal, conservative placeholder matching, data-minimized reports, bounded validation and standard-library tests |
 
 | 058 | [Lead Routing Simulator](./daily-builds/day-058-lead-routing-simulator) | Declarative routing rules, deterministic priority ordering, overlap detection, data-minimized reports and standard-library tests |
+| 059 | [Notification Template Lab](./daily-builds/day-059-notification-template-lab) | Placeholder extraction, deterministic previews, missing and unused variable checks, bounded validation and standard-library tests |

@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 58 / 100 complete
+**Progress:** 59 / 100 complete
 
-`████████████████████████████████████████████████████████ 58%`
+`███████████████████████████████████████████████████████████ 59%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -93,3 +93,4 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 057 | [Secret Placeholder Checker](./day-057-secret-placeholder-checker) | Recursive JSON traversal, conservative placeholder matching, data-minimized reports, bounded validation and standard-library tests | Complete |
 
 | 058 | [Lead Routing Simulator](./day-058-lead-routing-simulator) | Declarative routing rules, deterministic priority ordering, overlap detection, data-minimized reports and standard-library tests | Complete |
+| 059 | [Notification Template Lab](./day-059-notification-template-lab) | Placeholder extraction, deterministic previews, missing and unused variable checks, bounded validation and standard-library tests | Complete |

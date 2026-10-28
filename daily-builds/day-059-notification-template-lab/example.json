@@ -1,0 +1,24 @@
+{
+  "templates": [
+    {
+      "id": "task-ready",
+      "channel": "email",
+      "subject": "Task {{task_id}} is ready",
+      "body": "Hi {{owner}}, review {{task_id}} before {{due_date}}.",
+      "data": {
+        "task_id": "TASK-104",
+        "owner": "Mina",
+        "due_date": "2026-10-30"
+      }
+    },
+    {
+      "id": "incident-update",
+      "channel": "chat",
+      "body": "Incident {{incident_id}} is now {{status}}. Next update: {{next_update}}.",
+      "data": {
+        "incident_id": "INC-12",
+        "status": "monitoring"
+      }
+    }
+  ]
+}
