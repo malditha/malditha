@@ -1,0 +1,29 @@
+{
+  "name": "Lead follow-up",
+  "active": false,
+  "nodes": [
+    {
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "parameters": {"httpMethod": "POST", "path": "lead-follow-up"}
+    },
+    {
+      "name": "Create task",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "parameters": {"method": "POST", "url": "https://example.invalid/tasks"},
+      "credentials": {"httpHeaderAuth": {"id": "sample-only", "name": "Synthetic credential"}}
+    },
+    {
+      "name": "Review note",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "parameters": {}
+    }
+  ],
+  "connections": {
+    "Webhook": {"main": [[{"node": "Create task", "type": "main", "index": 0}]]}
+  },
+  "settings": {"executionOrder": "v1"}
+}
