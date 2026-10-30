@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 060 of 100 · August 31–December 8, 2026
+**Progress:** Day 061 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -124,3 +124,5 @@ sharing   → honest work without exposing private client code
 | 058 | [Lead Routing Simulator](./daily-builds/day-058-lead-routing-simulator) | Declarative routing rules, deterministic priority ordering, overlap detection, data-minimized reports and standard-library tests |
 | 059 | [Notification Template Lab](./daily-builds/day-059-notification-template-lab) | Placeholder extraction, deterministic previews, missing and unused variable checks, bounded validation and standard-library tests |
 | 060 | [n8n Workflow Documenter](./daily-builds/day-060-n8n-workflow-documenter) | Workflow graph parsing, structural review, Markdown and JSON reports, data minimization and standard-library tests |
+
+| 061 | [Boundary Value Generator](./daily-builds/day-061-boundary-value-generator) | Boundary-value analysis, exact stepping, deterministic cases, defensive validation, and standard-library tests |

@@ -1,0 +1,7 @@
+{
+  "fields": [
+    {"name": "quantity", "type": "integer", "minimum": 1, "maximum": 10},
+    {"name": "discount_rate", "type": "number", "minimum": 0, "maximum": 1, "step": 0.1},
+    {"name": "reference", "type": "string", "min_length": 3, "max_length": 8}
+  ]
+}
