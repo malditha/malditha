@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 061 of 100 · August 31–December 8, 2026
+**Progress:** Day 062 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -126,3 +126,5 @@ sharing   → honest work without exposing private client code
 | 060 | [n8n Workflow Documenter](./daily-builds/day-060-n8n-workflow-documenter) | Workflow graph parsing, structural review, Markdown and JSON reports, data minimization and standard-library tests |
 
 | 061 | [Boundary Value Generator](./daily-builds/day-061-boundary-value-generator) | Boundary-value analysis, exact stepping, deterministic cases, defensive validation, and standard-library tests |
+
+| 062 | [API Contract Test Starter](./daily-builds/day-062-api-contract-test-starter) | API contract modeling, positive and negative cases, deterministic fixtures, defensive validation, and standard-library tests |

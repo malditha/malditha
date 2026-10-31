@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 61 / 100 complete
+**Progress:** 62 / 100 complete
 
-`████████████████████████████████████████████████████████████ 61%`
+`████████████████████████████████████████████████████████████ 62%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -97,3 +97,5 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 060 | [n8n Workflow Documenter](./day-060-n8n-workflow-documenter) | Workflow graph parsing, structural review, Markdown and JSON reports, data minimization and standard-library tests | Complete |
 
 | 061 | [Boundary Value Generator](./day-061-boundary-value-generator) | Boundary-value analysis, exact decimal stepping, deterministic test-case generation, bounded JSON validation and standard-library tests | Complete |
+
+| 062 | [API Contract Test Starter](./day-062-api-contract-test-starter) | API contract modeling, positive and negative test design, deterministic fixture generation, defensive JSON validation and standard-library tests | Complete |

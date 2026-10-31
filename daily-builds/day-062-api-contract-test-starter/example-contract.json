@@ -1,0 +1,13 @@
+{
+  "name": "Customer lookup",
+  "method": "GET",
+  "path": "/customers/{customer_id}",
+  "parameters": [
+    {"name": "customer_id", "in": "path", "type": "integer", "required": true, "example": 42},
+    {"name": "include_orders", "in": "query", "type": "boolean", "required": false, "example": false}
+  ],
+  "response": {
+    "status": 200,
+    "required_fields": {"id": "integer", "name": "string", "active": "boolean"}
+  }
+}
