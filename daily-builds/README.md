@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 62 / 100 complete
+**Progress:** 63 / 100 complete
 
-`████████████████████████████████████████████████████████████ 62%`
+`█████████████████████████████████████████████████████████████ 63%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -99,3 +99,5 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 061 | [Boundary Value Generator](./day-061-boundary-value-generator) | Boundary-value analysis, exact decimal stepping, deterministic test-case generation, bounded JSON validation and standard-library tests | Complete |
 
 | 062 | [API Contract Test Starter](./day-062-api-contract-test-starter) | API contract modeling, positive and negative test design, deterministic fixture generation, defensive JSON validation and standard-library tests | Complete |
+
+| 063 | [Accessibility Audit Checklist](./day-063-accessibility-audit-checklist) | Manual accessibility reviews, evidence and remediation tracking, prioritized release status, defensive JSON validation and standard-library tests | Complete |

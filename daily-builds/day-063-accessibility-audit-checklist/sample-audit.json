@@ -1,0 +1,11 @@
+{
+  "page": "Example checkout",
+  "auditor": "Manual review",
+  "checked_at": "2026-11-01",
+  "checks": [
+    {"id": "keyboard", "label": "Complete the main flow with a keyboard", "severity": "blocker", "result": "fail", "evidence": "Focus cannot reach the payment button", "next_action": "Restore the button to the tab order and retest"},
+    {"id": "focus", "label": "Keyboard focus remains visible", "severity": "high", "result": "pass", "evidence": "Visible outline observed on interactive controls", "next_action": ""},
+    {"id": "errors", "label": "Form errors are identified in text", "severity": "high", "result": "not_tested", "evidence": "", "next_action": "Test invalid submission with screen reader output"},
+    {"id": "motion", "label": "Reduced-motion preference is respected", "severity": "medium", "result": "not_applicable", "evidence": "", "next_action": ""}
+  ]
+}

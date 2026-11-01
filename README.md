@@ -30,7 +30,7 @@
 
 One small, original project built in public each day—working code, documentation, and tests when applicable. No client code, copied tutorials, empty placeholders, or contribution farming.
 
-**Progress:** Day 062 of 100 · August 31–December 8, 2026
+**Progress:** Day 063 of 100 · August 31–December 8, 2026
 
 | Day | Project | Focus |
 | --- | --- | --- |
@@ -128,3 +128,4 @@ sharing   → honest work without exposing private client code
 | 061 | [Boundary Value Generator](./daily-builds/day-061-boundary-value-generator) | Boundary-value analysis, exact stepping, deterministic cases, defensive validation, and standard-library tests |
 
 | 062 | [API Contract Test Starter](./daily-builds/day-062-api-contract-test-starter) | API contract modeling, positive and negative cases, deterministic fixtures, defensive validation, and standard-library tests |
+| 063 | [Accessibility Audit Checklist](./daily-builds/day-063-accessibility-audit-checklist) | Manual accessibility reviews, evidence and remediation tracking, prioritized release status, defensive validation, and standard-library tests |
