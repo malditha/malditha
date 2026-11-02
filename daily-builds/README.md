@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 63 / 100 complete
+**Progress:** 64 / 100 complete
 
-`█████████████████████████████████████████████████████████████ 63%`
+`██████████████████████████████████████████████████████████████ 64%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -101,3 +101,5 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 062 | [API Contract Test Starter](./day-062-api-contract-test-starter) | API contract modeling, positive and negative test design, deterministic fixture generation, defensive JSON validation and standard-library tests | Complete |
 
 | 063 | [Accessibility Audit Checklist](./day-063-accessibility-audit-checklist) | Manual accessibility reviews, evidence and remediation tracking, prioritized release status, defensive JSON validation and standard-library tests | Complete |
+
+| 064 | [Visual Regression Manifest](./day-064-visual-regression-manifest) | PNG metadata and SHA-256 inventory, deterministic manifest comparison, defensive path validation and standard-library tests | Complete |

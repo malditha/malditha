@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "screenshots": [
+    {"path": "checkout/desktop.png", "width": 1440, "height": 900, "bytes": 120000, "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},
+    {"path": "checkout/mobile.png", "width": 390, "height": 844, "bytes": 80000, "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"}
+  ]
+}
