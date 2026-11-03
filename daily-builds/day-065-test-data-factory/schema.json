@@ -1,0 +1,9 @@
+{
+  "fields": [
+    {"name": "case_id", "type": "string", "prefix": "CASE-", "length": 6},
+    {"name": "priority", "type": "choice", "values": ["low", "medium", "high"]},
+    {"name": "attempts", "type": "integer", "minimum": 0, "maximum": 3},
+    {"name": "enabled", "type": "boolean"},
+    {"name": "contact", "type": "test_email"}
+  ]
+}

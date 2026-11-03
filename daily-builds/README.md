@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 64 / 100 complete
+**Progress:** 65 / 100 complete
 
-`██████████████████████████████████████████████████████████████ 64%`
+`███████████████████████████████████████████████████████████████ 65%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -103,3 +103,5 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 063 | [Accessibility Audit Checklist](./day-063-accessibility-audit-checklist) | Manual accessibility reviews, evidence and remediation tracking, prioritized release status, defensive JSON validation and standard-library tests | Complete |
 
 | 064 | [Visual Regression Manifest](./day-064-visual-regression-manifest) | PNG metadata and SHA-256 inventory, deterministic manifest comparison, defensive path validation and standard-library tests | Complete |
+
+| 065 | [Test Data Factory](./day-065-test-data-factory) | Seeded synthetic records, declarative field schemas, privacy-safe identifiers, bounded validation and standard-library tests | Complete |
