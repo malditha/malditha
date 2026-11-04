@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 65 / 100 complete
+**Progress:** 66 / 100 complete
 
-`███████████████████████████████████████████████████████████████ 65%`
+`██████████████████████████████████████████████████████████████████ 66%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -105,3 +105,4 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 064 | [Visual Regression Manifest](./day-064-visual-regression-manifest) | PNG metadata and SHA-256 inventory, deterministic manifest comparison, defensive path validation and standard-library tests | Complete |
 
 | 065 | [Test Data Factory](./day-065-test-data-factory) | Seeded synthetic records, declarative field schemas, privacy-safe identifiers, bounded validation and standard-library tests | Complete |
+| 066 | [Error Message Reviewer](./day-066-error-message-reviewer) | Deterministic content linting, safe error copy, privacy-conscious reports, defensive validation and standard-library tests | Complete |

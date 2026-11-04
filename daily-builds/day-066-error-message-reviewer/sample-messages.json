@@ -1,0 +1,4 @@
+[
+  {"id":"upload-too-large","text":"The image is larger than 5 MB. Choose a smaller file and try again."},
+  {"id":"save-generic","text":"Something went wrong."}
+]
