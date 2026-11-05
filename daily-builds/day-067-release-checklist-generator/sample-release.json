@@ -1,0 +1,6 @@
+{
+  "release_id": "web-2026-11-05",
+  "components": ["application", "database"],
+  "risk": "medium",
+  "customer_facing": true
+}

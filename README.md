@@ -132,3 +132,4 @@ sharing   → honest work without exposing private client code
 | 064 | [Visual Regression Manifest](./daily-builds/day-064-visual-regression-manifest) | PNG dimensions and hashes, deterministic visual-file comparison, defensive path validation, and standard-library tests |
 | 065 | [Test Data Factory](./daily-builds/day-065-test-data-factory) | Seeded synthetic records, declarative schemas, privacy-safe identifiers, bounded validation, and standard-library tests |
 | 066 | [Error Message Reviewer](./daily-builds/day-066-error-message-reviewer) | Deterministic content linting, safe error copy, privacy-conscious reports, defensive validation, and standard-library tests |
+| 067 | [Release Checklist Generator](./daily-builds/day-067-release-checklist-generator) | Deterministic rule generation, release and rollback planning, defensive JSON validation, Markdown and JSON reports, and standard-library tests |
