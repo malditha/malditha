@@ -74,7 +74,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 065 | Nov 03, 2026 | Test Data Factory | Testing & software quality | Complete |
 | 066 | Nov 04, 2026 | Error Message Reviewer | Testing & software quality | Complete |
 | 067 | Nov 05, 2026 | Release Checklist Generator | Testing & software quality | Complete |
-| 068 | Nov 06, 2026 | Changelog Composer | Testing & software quality | Planned |
+| 068 | Nov 06, 2026 | Changelog Composer | Testing & software quality | Complete |
 | 069 | Nov 07, 2026 | Feature Flag Matrix | Testing & software quality | Planned |
 | 070 | Nov 08, 2026 | Bug Reproduction Template | Testing & software quality | Planned |
 | 071 | Nov 09, 2026 | Password Entropy Lens | Security & privacy | Planned |

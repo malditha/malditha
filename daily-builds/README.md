@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 67 / 100 complete
+**Progress:** 68 / 100 complete
 
-`███████████████████████████████████████████████████████████████████ 67%`
+`███████████████████████████████████████████████████████████████████ 68%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -107,3 +107,5 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 065 | [Test Data Factory](./day-065-test-data-factory) | Seeded synthetic records, declarative field schemas, privacy-safe identifiers, bounded validation and standard-library tests | Complete |
 | 066 | [Error Message Reviewer](./day-066-error-message-reviewer) | Deterministic content linting, safe error copy, privacy-conscious reports, defensive validation and standard-library tests | Complete |
 | 067 | [Release Checklist Generator](./day-067-release-checklist-generator) | Deterministic rule generation, release and rollback planning, defensive JSON validation, Markdown and JSON reports, and standard-library tests | Complete |
+
+| 068 | [Changelog Composer](./day-068-changelog-composer) | Deterministic Markdown, release communication, defensive JSON validation and standard-library tests | Complete |

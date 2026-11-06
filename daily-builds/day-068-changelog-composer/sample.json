@@ -1,0 +1,5 @@
+{"version":"1.2.0","date":"2026-11-06","changes":[
+  {"id":"export","category":"Added","summary":"Export a release summary as Markdown.","breaking":false},
+  {"id":"legacy","category":"Removed","summary":"Remove the legacy output option; use Markdown output instead.","breaking":true},
+  {"id":"date","category":"Fixed","summary":"Reject impossible release dates.","breaking":false}
+]}
