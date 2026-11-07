@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 68 / 100 complete
+**Progress:** 69 / 100 complete
 
-`███████████████████████████████████████████████████████████████████ 68%`
+`███████████████████████████████████████████████████████████████████ 69%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -109,3 +109,5 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 067 | [Release Checklist Generator](./day-067-release-checklist-generator) | Deterministic rule generation, release and rollback planning, defensive JSON validation, Markdown and JSON reports, and standard-library tests | Complete |
 
 | 068 | [Changelog Composer](./day-068-changelog-composer) | Deterministic Markdown, release communication, defensive JSON validation and standard-library tests | Complete |
+
+| 069 | [Feature Flag Matrix](./day-069-feature-flag-matrix) | Combinatorial test design, boolean dependencies, deterministic generation and standard-library tests | Complete |
