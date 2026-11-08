@@ -137,3 +137,5 @@ sharing   → honest work without exposing private client code
 | 068 | [Changelog Composer](./daily-builds/day-068-changelog-composer) | Deterministic Markdown, release communication, defensive JSON validation and standard-library tests |
 
 | 069 | [Feature Flag Matrix](./daily-builds/day-069-feature-flag-matrix) | Combinatorial test design, boolean dependencies, deterministic generation and standard-library tests |
+
+| 070 | [Bug Reproduction Template](./daily-builds/day-070-bug-reproduction-template) | Reproduction evidence, defensive JSON validation, deterministic Markdown and standard-library tests |

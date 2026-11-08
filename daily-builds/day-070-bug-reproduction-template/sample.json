@@ -1,0 +1,9 @@
+{
+  "title": "Draft title disappears after reopening",
+  "environment": {"application": "Fictional Notes 1.2", "browser": "Test browser", "account": "Synthetic test account"},
+  "preconditions": ["A disposable draft exists."],
+  "steps": ["Open the draft.", "Set its title to Test draft and save.", "Close and reopen the draft."],
+  "expected": "The title remains Test draft.",
+  "actual": "The title field is empty.",
+  "frequency": {"observed": 2, "attempted": 3}
+}
