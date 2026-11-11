@@ -139,3 +139,5 @@ sharing   → honest work without exposing private client code
 | 069 | [Feature Flag Matrix](./daily-builds/day-069-feature-flag-matrix) | Combinatorial test design, boolean dependencies, deterministic generation and standard-library tests |
 
 | 070 | [Bug Reproduction Template](./daily-builds/day-070-bug-reproduction-template) | Reproduction evidence, defensive JSON validation, deterministic Markdown and standard-library tests |
+
+| 071 | [Password Entropy Lens](./daily-builds/day-071-password-entropy-lens) | Entropy model assumptions, data minimization, logarithms and Python tests |
