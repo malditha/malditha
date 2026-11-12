@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 71 / 100 complete
+**Progress:** 72 / 100 complete
 
-`███████████████████████████████████████████████████████████████████ 71%`
+`███████████████████████████████████████████████████████████████████ 72%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -115,3 +115,5 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 070 | [Bug Reproduction Template](./day-070-bug-reproduction-template) | Reproduction evidence, defensive JSON validation, deterministic Markdown and standard-library tests | Complete |
 
 | 071 | [Password Entropy Lens](./day-071-password-entropy-lens) | Entropy model assumptions, data minimization, logarithms and Python tests | Complete |
+
+| 072 | [Security Header Explorer](./day-072-security-header-explorer) | HTTP headers, data minimization, bounded parsing and Python tests | Complete |

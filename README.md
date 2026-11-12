@@ -141,3 +141,5 @@ sharing   → honest work without exposing private client code
 | 070 | [Bug Reproduction Template](./daily-builds/day-070-bug-reproduction-template) | Reproduction evidence, defensive JSON validation, deterministic Markdown and standard-library tests |
 
 | 071 | [Password Entropy Lens](./daily-builds/day-071-password-entropy-lens) | Entropy model assumptions, data minimization, logarithms and Python tests |
+
+| 072 | [Security Header Explorer](./daily-builds/day-072-security-header-explorer) | HTTP headers, data minimization, bounded parsing and Python tests |

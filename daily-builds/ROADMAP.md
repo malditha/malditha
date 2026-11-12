@@ -78,7 +78,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 069 | Nov 07, 2026 | Feature Flag Matrix | Testing & software quality | Complete |
 | 070 | Nov 08, 2026 | Bug Reproduction Template | Testing & software quality | Complete |
 | 071 | Nov 09, 2026 | Password Entropy Lens | Security & privacy | Complete |
-| 072 | Nov 10, 2026 | Security Header Explorer | Security & privacy | Planned |
+| 072 | Nov 10, 2026 | Security Header Explorer | Security & privacy | Complete |
 | 073 | Nov 11, 2026 | CSP Builder Lite | Security & privacy | Planned |
 | 074 | Nov 12, 2026 | Secret Leak Pattern Scanner | Security & privacy | Planned |
 | 075 | Nov 13, 2026 | PII Redaction Playground | Security & privacy | Planned |
