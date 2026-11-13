@@ -1,0 +1,1 @@
+{"default-src":["'self'"],"img-src":["'self'","https://images.example.com"],"object-src":["'none'"],"base-uri":["'self'"],"frame-ancestors":["'none'"]}

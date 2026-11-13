@@ -143,3 +143,4 @@ sharing   → honest work without exposing private client code
 | 071 | [Password Entropy Lens](./daily-builds/day-071-password-entropy-lens) | Entropy model assumptions, data minimization, logarithms and Python tests |
 
 | 072 | [Security Header Explorer](./daily-builds/day-072-security-header-explorer) | HTTP headers, data minimization, bounded parsing and Python tests |
+| 073 | [CSP Builder Lite](./daily-builds/day-073-csp-builder-lite) | CSP source modeling, defensive JSON validation, deterministic headers and Python tests |
