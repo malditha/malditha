@@ -2,9 +2,9 @@
 
 One small, original and complete project per day—from **August 31 through December 8, 2026**.
 
-**Progress:** 74 / 100 complete
+**Progress:** 75 / 100 complete
 
-`█████████████████████████████████████████████████████████████████████████ 74%`
+`█████████████████████████████████████████████████████████████████████████ 75%`
 
 [View the complete Day 001–100 project roadmap →](./ROADMAP.md)
 
@@ -119,3 +119,4 @@ The challenge rotates through TypeScript and JavaScript, Python, Frappe/ERPNext,
 | 072 | [Security Header Explorer](./day-072-security-header-explorer) | HTTP headers, data minimization, bounded parsing and Python tests | Complete |
 | 073 | [CSP Builder Lite](./day-073-csp-builder-lite) | CSP source modeling, defensive JSON validation, deterministic headers and Python tests | Complete |
 | 074 | [Secret Leak Pattern Scanner](./day-074-secret-leak-pattern-scanner) | Bounded parsing, value-free reporting, pattern matching and Python tests | Complete |
+| 075 | [PII Redaction Playground](./day-075-pii-redaction-playground) | Recursive JSON transformation, explicit redaction, defensive parsing and Python tests | Complete |

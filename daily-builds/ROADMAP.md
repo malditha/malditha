@@ -81,7 +81,7 @@ This is the working sequence for the challenge. A project may be refined when a 
 | 072 | Nov 10, 2026 | Security Header Explorer | Security & privacy | Complete |
 | 073 | Nov 11, 2026 | CSP Builder Lite | Security & privacy | Complete |
 | 074 | Nov 12, 2026 | Secret Leak Pattern Scanner | Security & privacy | Complete |
-| 075 | Nov 13, 2026 | PII Redaction Playground | Security & privacy | Planned |
+| 075 | Nov 13, 2026 | PII Redaction Playground | Security & privacy | Complete |
 | 076 | Nov 14, 2026 | JWT Claim Inspector | Security & privacy | Planned |
 | 077 | Nov 15, 2026 | File Permission Explainer | Security & privacy | Planned |
 | 078 | Nov 16, 2026 | Dependency Risk Checklist | Security & privacy | Planned |
