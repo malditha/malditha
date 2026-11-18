@@ -146,3 +146,5 @@ sharing   → honest work without exposing private client code
 | 073 | [CSP Builder Lite](./daily-builds/day-073-csp-builder-lite) | CSP source modeling, defensive JSON validation, deterministic headers and Python tests |
 | 074 | [Secret Leak Pattern Scanner](./daily-builds/day-074-secret-leak-pattern-scanner) | Bounded parsing, value-free reporting, pattern matching and Python tests |
 | 075 | [PII Redaction Playground](./daily-builds/day-075-pii-redaction-playground) | Recursive JSON transformation, explicit redaction, defensive parsing and Python tests |
+
+| 076 | [JWT Claim Inspector](./daily-builds/day-076-jwt-claim-inspector) | Defensive JWT decoding, untrusted claim inspection, deterministic time checks and Python tests |
